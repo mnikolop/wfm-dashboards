@@ -47,12 +47,18 @@ Pandas datasets were created for each of the entities in the dimentional model, 
 
 ### Reports & Dashboards
 
+At this point only one report was made using the data generated.
+
+The reports were generated using Power BI.
+
 ---
 
 ## TODO
 
 1. make it so the scripts can be run continually to give the perception of real-time data generation, with append in the delta tables (instead of override).
 1. Add human error in schedules.
+1. Add time punch data.
+1. Add report data.
 
 ### Shifts
 
