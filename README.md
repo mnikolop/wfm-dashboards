@@ -55,6 +55,7 @@ The reports were generated using Power BI.
 
 ## TODO
 
+1. Make it a function-based generator
 1. Export the Databricks workspace folder to add to the repo for easier sharing
 1. Make it so the scripts can be run continually to give the perception of real-time data generation, with append in the delta tables (instead of override).
 1. Add human error in schedules.
