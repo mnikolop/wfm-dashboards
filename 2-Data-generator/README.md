@@ -18,5 +18,10 @@ The ranges for the syntheric data fall under the following categories:
 Since entities use values from other that are being created in this code, the notebooks need to be run in a specific order. The steps bellow show the steps that need to be taken in order to generate the desired results:
 
 1. Upload all files from the `ranges` folder in the metastore.
-1. Run the notebooks in this folder int he following order 1. locality-structures 1. customers 1. employees 1. employeeScedules 1. Shifts
+1. Run the notebooks in this folder int he following order   
+   1. locality-structures   
+   1. customers   
+   1. employees   
+   1. employeeScedules   
+   1. Shifts   
    > NOTE: if any changes that affect the data are made in the earlier notebooks all subsequent notebooks need to be rerun to make sure the changes have been passed on.
