@@ -31,6 +31,7 @@ def employeeContracts_def(sampleSize = 500, size = 500, start = 1111, employment
     # Prerequisites: Localities data to be created in the warehouse.
     # Inputs: size: the number of cost centers to be breated.
             # start: the starting point for the index. default is 1111. NOTE: if there is data in the warehouse use the last index+1 as the start and switch the write line to the append option
+            # employmentEndDateStartYears: How many years in the future should the contracts end. The range is defined as the number provided and the number provided + 4. Default is 1 and 1+4. The start of the contracts is definded as 10 years from the current year.
 
 
 
