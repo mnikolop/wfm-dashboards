@@ -23,34 +23,6 @@ from datetime import date, timedelta
 
 # COMMAND ----------
 
-delta =spark.read.format('delta').table("d_costCenters")
-costCenters = delta.toPandas()
-
-
-# COMMAND ----------
-
-delta =spark.read.format('delta').table("d_employees")
-employees = delta.toPandas()
-
-
-# COMMAND ----------
-
-delta =spark.read.format('delta').table("d_employeecontracts")
-employeeContracts = delta.toPandas()
-
-
-# COMMAND ----------
-
-delta =spark.read.format('delta').table("d_localities")
-localities = delta.toPandas()
-
-# COMMAND ----------
-
-delta =spark.read.format('delta').table("d_customers")
-customers = delta.toPandas()
-
-# COMMAND ----------
-
 # d	EmployeeSchedule	employeeScheduleID
 # d	EmployeeSchedule	employeeID
 # d	EmployeeSchedule	employeeContractID
@@ -92,156 +64,164 @@ customers = delta.toPandas()
 
 # COMMAND ----------
 
-# merge employees and employee contracts and take a sample
-employeesAndContracts = employees.merge(employeeContracts)
-employeesAndContractsSample = employeesAndContracts.sample(50).reset_index(drop=True)
-
-# COMMAND ----------
-
-employeesAndContractsSample
-
-# COMMAND ----------
+def employeeScedules_def(sampleSize = 50, start = 1111): 
 
 
-l = []
-for employeeID in employeesAndContractsSample.employeeID.drop_duplicates(keep='first').reset_index(drop=True):
-    
-    temp = pd.DataFrame()
-    
-    start = employeesAndContractsSample.loc[employeesAndContractsSample.employeeID == employeeID, 'contractStartDate'].dt.date.item()
-    end = datetime.datetime.now() + pd.DateOffset(months=np.random.choice([0, 1, 2, 3]))
-    # scheduleStartDateEnd = datetime.datetime.now() + pd.DateOffset(months=np.random.choice([0, 1, 2, 3]))
-    bs = employeesAndContractsSample.loc[employeesAndContractsSample.employeeID == employeeID, 'baseSchedule'].item()
-    #TODO take into acount costCenterSchedulePublishedDate for end period of schedule publishing
+    # Creates employeeScedules data.
+    # Prerequisites: Localities, employee contracts, employees and customer data to be created in the warehouse. 
+    # Inputs: sampleSize: the number of employees that are used to create the dataframe. 
+            # start: the starting point for the index. default is 1111. NOTE: if there is data in the warehouse use the last index+1 as the start and switch the write line to the append option
 
 
-    # print(type(pd.date_range(start, end - timedelta(days=1),freq='d')) )
-    temp['scheduleStartDate'] = pd.date_range(start, end - timedelta(days=1),freq='d')
-    temp['scheduleStartDatetime'] = temp['scheduleStartDate'] + pd.DateOffset(hours=8)
+    delta =spark.read.format('delta').table("d_costCenters")
+    costCenters = delta.toPandas()
 
-    # print(bs[pd.date_range(start ,end - timedelta(days=1),freq='d').dayofweek] * 8)
-    temp['scheduleDuration'] = bs[pd.date_range(start ,end - timedelta(days=1),freq='d').dayofweek] * 8
+    delta =spark.read.format('delta').table("d_employees")
+    employees = delta.toPandas()
 
-    # # print(pd.date_range(start ,end - timedelta(days=1),freq='d') + timedelta(days=1))
-    temp['scheduleEndDatetime'] = temp['scheduleStartDatetime'] + temp["scheduleDuration"].apply(lambda y: pd.DateOffset(hours=y))
-    temp['scheduleEndDate'] = temp['scheduleEndDatetime'].dt.date
+    delta =spark.read.format('delta').table("d_employeecontracts")
+    employeeContracts = delta.toPandas()
 
-    temp['employeeID'] = employeeID
+    delta =spark.read.format('delta').table("d_localities")
+    localities = delta.toPandas()
 
-    temp['costCenterID'] = employeesAndContractsSample.loc[employeesAndContractsSample.employeeID == employeeID, 'costCenterID'].item()
+    delta =spark.read.format('delta').table("d_customers")
+    customers = delta.toPandas()
 
-    temp['serviceDeliveryID'] = np.random.choice([1, 2, 3, 4, 5], size=len(temp))
+    sampleSize = sampleSize
 
-    # temp['beginningBreak1'] = temp['scheduleStartDate'] + pd.DateOffset(hours=10.5)
-    temp['beginningBreak1'] = temp['scheduleStartDate'] + pd.DateOffset(hours=10.5)
-    temp['beginningBreak1'] = temp.beginningBreak1.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=10.5),  pd.Timestamp('NaT').to_pydatetime())
-
-    # temp['endBreak1'] = temp['scheduleStartDate'] + pd.DateOffset(hours=11)
-    temp['endBreak1'] = temp['scheduleStartDate'] + pd.DateOffset(hours=11)
-    temp['endBreak1'] = temp.endBreak1.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=11),  pd.Timestamp('NaT').to_pydatetime())
-
-    # temp['beginningBreak2'] = temp['scheduleStartDate'] + pd.DateOffset(hours=12)
-    temp['beginningBreak2'] = temp['scheduleStartDate'] + pd.DateOffset(hours=12)
-    temp['beginningBreak2'] = temp.beginningBreak2.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=12),  pd.Timestamp('NaT').to_pydatetime())
-
-    # temp['endBreak2'] = temp['scheduleStartDate'] + pd.DateOffset(hours=13)
-    temp['endBreak2'] = temp['scheduleStartDate'] + pd.DateOffset(hours=13)
-    temp['endBreak2'] = temp.endBreak2.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=13),  pd.Timestamp('NaT').to_pydatetime())
-
-    # temp['beginningBreak3'] = temp['scheduleStartDate'] + pd.DateOffset(hours=15)
-    temp['beginningBreak3'] = temp['scheduleStartDate'] + pd.DateOffset(hours=15)
-    temp['beginningBreak3'] = temp.beginningBreak3.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=15),  pd.Timestamp('NaT').to_pydatetime())
-
-    # temp['endBreak3'] = temp['scheduleStartDate'] + pd.DateOffset(hours=15.25)
-    temp['endBreak3'] = temp['scheduleStartDate'] + pd.DateOffset(hours=15.25)
-    temp['endBreak3'] = temp.endBreak3.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=15.25),  pd.Timestamp('NaT').to_pydatetime())
-
-    # temp['beginningBreak4'] = temp['scheduleStartDate'] + pd.DateOffset(hours=20)
-    temp['beginningBreak4'] = temp['scheduleStartDate'] + pd.DateOffset(hours=20)
-    temp['beginningBreak4'] = temp.beginningBreak4.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=20),  pd.Timestamp('NaT').to_pydatetime())
-
-    # temp['endBreak4'] = temp['scheduleStartDate'] + pd.DateOffset(hours=20.5)
-    temp['endBreak4'] = temp['scheduleStartDate'] + pd.DateOffset(hours=20.5)
-    temp['endBreak4'] = temp.endBreak4.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=20.5),  pd.Timestamp('NaT').to_pydatetime())
-
-    temp['countAsScheduledHours'] = True
-
-    temp['isLeave'] = np.random.choice([0, 1], size=len(temp), p=[0.8, 0.2])
-
-    temp['leaveReasonID'] = np.random.choice([1, 2, 3, 4, 5], size=len(temp))
-
-    temp['isLeaveApproved'] = True
-
-    temp['leaveDayCount'] = np.random.choice(range(1, 300), size=len(temp))
-
-    temp['isDeleted'] = np.random.choice([0, 1], size=len(temp), p=[0.9, 0.1])
-
-    temp['customerID'] = np.random.choice(customers.customerID.to_list(), size=len(temp))
+    # merge employees and employee contracts and take a sample
+    employeesAndContracts = employees.merge(employeeContracts)
+    employeesAndContractsSample = employeesAndContracts.sample(sampleSize).reset_index(drop=True)
 
 
-    # TODO # d	EmployeeSchedule	originalEmployeeScheduleId - if isDeleted = true then copy employeeScheduleID else 0
-
-    # employeeScedules = employeeScedules.append(temp, ignore_index = True)
-
-    l.append(temp)
-employeeScedules = pd.concat(l,ignore_index = True)
-
-start = 1111
-# dfIndex = range(start, start + len(employeeScedules))
-
-
-employeeScedules['employeeScheduleID'] = range(start, start + len(employeeScedules))
-# employeeScedules = employeeScedules.set_index(dfIndex).rename(columns={'index': 'employeeScheduleID'})
+    l = []
+    for employeeID in employeesAndContractsSample.employeeID.drop_duplicates(keep='first').reset_index(drop=True):
+        
+        temp = pd.DataFrame()
+        
+        dfStart = employeesAndContractsSample.loc[employeesAndContractsSample.employeeID == employeeID, 'contractStartDate'].dt.date.item()
+        dfEnd = datetime.datetime.now() + pd.DateOffset(months=np.random.choice([0, 1, 2, 3]))
+        # scheduleStartDateEnd = datetime.datetime.now() + pd.DateOffset(months=np.random.choice([0, 1, 2, 3]))
+        bs = employeesAndContractsSample.loc[employeesAndContractsSample.employeeID == employeeID, 'baseSchedule'].item()
+        #TODO take into acount costCenterSchedulePublishedDate for end period of schedule publishing
 
 
-# COMMAND ----------
+        # print(type(pd.date_range(start, end - timedelta(days=1),freq='d')) )
+        temp['scheduleStartDate'] = pd.date_range(dfStart, dfEnd - timedelta(days=1),freq='d')
+        temp['scheduleStartDatetime'] = temp['scheduleStartDate'] + pd.DateOffset(hours=8)
 
-employeeScedules
+        # print(bs[pd.date_range(start ,end - timedelta(days=1),freq='d').dayofweek] * 8)
+        temp['scheduleDuration'] = bs[pd.date_range(dfStart ,dfEnd - timedelta(days=1),freq='d').dayofweek] * 8
 
-# COMMAND ----------
+        # # print(pd.date_range(start ,end - timedelta(days=1),freq='d') + timedelta(days=1))
+        temp['scheduleEndDatetime'] = temp['scheduleStartDatetime'] + temp["scheduleDuration"].apply(lambda y: pd.DateOffset(hours=y))
+        temp['scheduleEndDate'] = temp['scheduleEndDatetime'].dt.date
 
-employeeScedules_spark = spark.createDataFrame(employeeScedules)
+        temp['employeeID'] = employeeID
+
+        temp['costCenterID'] = employeesAndContractsSample.loc[employeesAndContractsSample.employeeID == employeeID, 'costCenterID'].item()
+
+        temp['serviceDeliveryID'] = np.random.choice([1, 2, 3, 4, 5], size=len(temp))
+
+        # temp['beginningBreak1'] = temp['scheduleStartDate'] + pd.DateOffset(hours=10.5)
+        temp['beginningBreak1'] = temp['scheduleStartDate'] + pd.DateOffset(hours=10.5)
+        temp['beginningBreak1'] = temp.beginningBreak1.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=10.5),  pd.Timestamp('NaT').to_pydatetime())
+
+        # temp['endBreak1'] = temp['scheduleStartDate'] + pd.DateOffset(hours=11)
+        temp['endBreak1'] = temp['scheduleStartDate'] + pd.DateOffset(hours=11)
+        temp['endBreak1'] = temp.endBreak1.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=11),  pd.Timestamp('NaT').to_pydatetime())
+
+        # temp['beginningBreak2'] = temp['scheduleStartDate'] + pd.DateOffset(hours=12)
+        temp['beginningBreak2'] = temp['scheduleStartDate'] + pd.DateOffset(hours=12)
+        temp['beginningBreak2'] = temp.beginningBreak2.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=12),  pd.Timestamp('NaT').to_pydatetime())
+
+        # temp['endBreak2'] = temp['scheduleStartDate'] + pd.DateOffset(hours=13)
+        temp['endBreak2'] = temp['scheduleStartDate'] + pd.DateOffset(hours=13)
+        temp['endBreak2'] = temp.endBreak2.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=13),  pd.Timestamp('NaT').to_pydatetime())
+
+        # temp['beginningBreak3'] = temp['scheduleStartDate'] + pd.DateOffset(hours=15)
+        temp['beginningBreak3'] = temp['scheduleStartDate'] + pd.DateOffset(hours=15)
+        temp['beginningBreak3'] = temp.beginningBreak3.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=15),  pd.Timestamp('NaT').to_pydatetime())
+
+        # temp['endBreak3'] = temp['scheduleStartDate'] + pd.DateOffset(hours=15.25)
+        temp['endBreak3'] = temp['scheduleStartDate'] + pd.DateOffset(hours=15.25)
+        temp['endBreak3'] = temp.endBreak3.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=15.25),  pd.Timestamp('NaT').to_pydatetime())
+
+        # temp['beginningBreak4'] = temp['scheduleStartDate'] + pd.DateOffset(hours=20)
+        temp['beginningBreak4'] = temp['scheduleStartDate'] + pd.DateOffset(hours=20)
+        temp['beginningBreak4'] = temp.beginningBreak4.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=20),  pd.Timestamp('NaT').to_pydatetime())
+
+        # temp['endBreak4'] = temp['scheduleStartDate'] + pd.DateOffset(hours=20.5)
+        temp['endBreak4'] = temp['scheduleStartDate'] + pd.DateOffset(hours=20.5)
+        temp['endBreak4'] = temp.endBreak4.where(temp['scheduleEndDatetime'] >= temp['scheduleStartDate'] + pd.DateOffset(hours=20.5),  pd.Timestamp('NaT').to_pydatetime())
+
+        temp['countAsScheduledHours'] = True
+
+        temp['isLeave'] = np.random.choice([0, 1], size=len(temp), p=[0.8, 0.2])
+
+        temp['leaveReasonID'] = np.random.choice([1, 2, 3, 4, 5], size=len(temp))
+
+        temp['isLeaveApproved'] = True
+
+        temp['leaveDayCount'] = np.random.choice(range(1, 300), size=len(temp))
+
+        temp['isDeleted'] = np.random.choice([0, 1], size=len(temp), p=[0.9, 0.1])
+
+        temp['customerID'] = np.random.choice(customers.customerID.to_list(), size=len(temp))
 
 
-# COMMAND ----------
+        # TODO # d	EmployeeSchedule	originalEmployeeScheduleId - if isDeleted = true then copy employeeScheduleID else 0
 
-# # employeeScedules_spark.write.mode("append").format("delta").saveAsTable("d_employeeScedules")
-# employeeScedules_spark.write.mode("overwrite").format("delta").saveAsTable("d_employeeScedules")
+        # employeeScedules = employeeScedules.append(temp, ignore_index = True)
+
+        l.append(temp)
+    employeeScedules = pd.concat(l,ignore_index = True)
+
+    start = start
+    # dfIndex = range(start, start + len(employeeScedules))
 
 
-# COMMAND ----------
+    employeeScedules['employeeScheduleID'] = range(start, start + len(employeeScedules))
+    # employeeScedules = employeeScedules.set_index(dfIndex).rename(columns={'index': 'employeeScheduleID'})
 
-delta =spark.read.format('delta').table("d_employeeScedules")
-employeeScedules = delta.toPandas()
+    employeeScedules_spark = spark.createDataFrame(employeeScedules)
 
-# COMMAND ----------
+    # employeeScedules_spark.write.mode("append").format("delta").saveAsTable("d_employeeScedules")
+    employeeScedules_spark.write.mode("overwrite").format("delta").saveAsTable("d_employeeScedules")
 
-f_employeeSchedule = pd.DataFrame()
-
-f_employeeSchedule['employeeScheduleID'] = employeeScedules['employeeScheduleID']
-
-break1Duration = (employeeScedules['endBreak1'] - employeeScedules['beginningBreak1']).astype('timedelta64[m]')
-break2Duration = (employeeScedules['endBreak2'] - employeeScedules['beginningBreak2']).astype('timedelta64[m]')
-break3Duration = (employeeScedules['endBreak3'] - employeeScedules['beginningBreak3']).astype('timedelta64[m]')
-break4Duration = (employeeScedules['endBreak4'] - employeeScedules['beginningBreak4']).astype('timedelta64[m]')
-f_employeeSchedule['breakDuration'] = break1Duration + break2Duration + break3Duration + break3Duration
-f_employeeSchedule['breakDuration'] = f_employeeSchedule['breakDuration'].fillna(0)
-
-f_employeeSchedule['scheduleDuration'] = (employeeScedules['scheduleEndDatetime'] - employeeScedules['scheduleStartDatetime']).astype('timedelta64[m]')
-
-f_employeeSchedule['totalScheduleDuration'] = f_employeeSchedule['scheduleDuration'] - f_employeeSchedule['breakDuration']
-
-# COMMAND ----------
-
-f_employeeSchedule
-
-# COMMAND ----------
-
-f_employeeSchedule_spark = spark.createDataFrame(f_employeeSchedule)
+    return True
 
 
 # COMMAND ----------
 
-# # f_employeeSchedule_spark.write.mode("append").format("delta").saveAsTable("f_employeeSchedule")
-# f_employeeSchedule_spark.write.mode("overwrite").format("delta").saveAsTable("f_employeeSchedule")
+def f_employeeSchedule_def():
 
+    # Creates calculation (fact) data based on employeeSchedule.
+    # Prerequisites: Localities, employee contracts, employees, customer  and employeeSchedul data to be created in the warehouse. 
+    # Inputs: -
+
+    delta =spark.read.format('delta').table("d_employeeScedules")
+    employeeScedules = delta.toPandas()
+
+    f_employeeSchedule = pd.DataFrame()
+
+    f_employeeSchedule['employeeScheduleID'] = employeeScedules['employeeScheduleID']
+
+    break1Duration = (employeeScedules['endBreak1'] - employeeScedules['beginningBreak1']).astype('timedelta64[m]')
+    break2Duration = (employeeScedules['endBreak2'] - employeeScedules['beginningBreak2']).astype('timedelta64[m]')
+    break3Duration = (employeeScedules['endBreak3'] - employeeScedules['beginningBreak3']).astype('timedelta64[m]')
+    break4Duration = (employeeScedules['endBreak4'] - employeeScedules['beginningBreak4']).astype('timedelta64[m]')
+    f_employeeSchedule['breakDuration'] = break1Duration + break2Duration + break3Duration + break3Duration
+    f_employeeSchedule['breakDuration'] = f_employeeSchedule['breakDuration'].fillna(0)
+
+    f_employeeSchedule['scheduleDuration'] = (employeeScedules['scheduleEndDatetime'] - employeeScedules['scheduleStartDatetime']).astype('timedelta64[m]')
+
+    f_employeeSchedule['totalScheduleDuration'] = f_employeeSchedule['scheduleDuration'] - f_employeeSchedule['breakDuration']
+
+    f_employeeSchedule_spark = spark.createDataFrame(f_employeeSchedule)
+
+    # f_employeeSchedule_spark.write.mode("append").format("delta").saveAsTable("f_employeeSchedule")
+    f_employeeSchedule_spark.write.mode("overwrite").format("delta").saveAsTable("f_employeeSchedule")
+
+    return True
