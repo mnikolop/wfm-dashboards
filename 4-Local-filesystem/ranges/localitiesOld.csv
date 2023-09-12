@@ -1,0 +1,2021 @@
+"County 
+code",County name,"Municipal 
+code",Municipality name,"Locality 
+code",Locality reference
+01,Stockholm,0114,Upplands Väsby,0114TB103,Löwenströmska lasarettet
+01,Stockholm,0114,Upplands Väsby,0114TB107,Båtbyggartorp och Harva
+01,Stockholm,0115,Vallentuna,0115TB101,Brottby
+01,Stockholm,0115,Vallentuna,0115TB102,"Ekskogen, Älgeby och Långsjötorp"
+01,Stockholm,0115,Vallentuna,0115TB103,Ekskogen
+01,Stockholm,0115,Vallentuna,0115TB104,Johannesudd
+01,Stockholm,0115,Vallentuna,0115TB105,Karby
+01,Stockholm,0115,Vallentuna,0115TB106,Kårsta
+01,Stockholm,0115,Vallentuna,0115TB107,Lindholmen
+01,Stockholm,0115,Vallentuna,0115TC108,Vallentuna
+01,Stockholm,0117,Österåker,0117TB101,Bammarboda
+01,Stockholm,0117,Österåker,0117TB104,Laggarsvik och Linanäs
+01,Stockholm,0117,Österåker,0117TB105,Täljö
+01,Stockholm,0117,Österåker,0117TB106,Rydbo
+01,Stockholm,0117,Österåker,0117TB107,Solberga
+01,Stockholm,0117,Österåker,0117TB108,Nyhagen och Översättra
+01,Stockholm,0117,Österåker,0117TB109,Stava
+01,Stockholm,0117,Österåker,0117TB110,Nolsjö och Mellansjö
+01,Stockholm,0117,Österåker,0117TB111,Svinninge
+01,Stockholm,0117,Österåker,0117TB113,Spånlöt
+01,Stockholm,0117,Österåker,0117TB154,Näs*
+01,Stockholm,0117,Österåker,0117TC112,Åkersberga
+01,Stockholm,0120,Värmdö,0120TB101,Björnömalmen och Klacknäset
+01,Stockholm,0120,Värmdö,0120TB102,"Grönskan, Vedhamn och Baldersnäs"
+01,Stockholm,0120,Värmdö,0120TB103,Brunn
+01,Stockholm,0120,Värmdö,0120TB104,Betsede
+01,Stockholm,0120,Värmdö,0120TB105,Djurö
+01,Stockholm,0120,Värmdö,0120TB108,Fågelvikshöjden
+01,Stockholm,0120,Värmdö,0120TB113,Norra Ingaröstrand och Skälsmara
+01,Stockholm,0120,Värmdö,0120TB114,Kopparmora
+01,Stockholm,0120,Värmdö,0120TB115,Långvik
+01,Stockholm,0120,Värmdö,0120TB117,Norra Lagnö
+01,Stockholm,0120,Värmdö,0120TB119,Lugnet och Skälsmara
+01,Stockholm,0120,Värmdö,0120TB120,Stavsnäs
+01,Stockholm,0120,Värmdö,0120TB121,Strömma
+01,Stockholm,0120,Värmdö,0120TB123,Koviksudde och Skeviksstrand
+01,Stockholm,0120,Värmdö,0120TB125,Ängsvik
+01,Stockholm,0120,Värmdö,0120TB126,Älvsala
+01,Stockholm,0120,Värmdö,0120TB127,Norra Vindö
+01,Stockholm,0120,Värmdö,0120TB138,Västra Älvsala
+01,Stockholm,0120,Värmdö,0120TB178,Södra Vindö*
+01,Stockholm,0120,Värmdö,0120TC109,Gustavsberg
+01,Stockholm,0125,Ekerö,0125TB101,Drottningholm
+01,Stockholm,0125,Ekerö,0125TB103,Ekerö sommarstad
+01,Stockholm,0125,Ekerö,0125TB104,Parksidan och Solsidan
+01,Stockholm,0125,Ekerö,0125TB105,Hilleshögby
+01,Stockholm,0125,Ekerö,0125TB106,Kungsberga
+01,Stockholm,0125,Ekerö,0125TB107,Lilla Stenby
+01,Stockholm,0125,Ekerö,0125TB108,Lurudden
+01,Stockholm,0125,Ekerö,0125TB109,Sundby
+01,Stockholm,0125,Ekerö,0125TB111,Stenhamra
+01,Stockholm,0125,Ekerö,0125TB112,Söderby
+01,Stockholm,0125,Ekerö,0125TB113,Tureholm
+01,Stockholm,0125,Ekerö,0125TB114,Älvnäs
+01,Stockholm,0125,Ekerö,0125TB115,Ölsta
+01,Stockholm,0125,Ekerö,0125TB120,Ekeby tomtområde
+01,Stockholm,0125,Ekerö,0125TB157,"Slottshagen, Bona, Helgö bol och Kungens täppa"
+01,Stockholm,0125,Ekerö,0125TB161,Sånga Säby
+01,Stockholm,0125,Ekerö,0125TB173,Jungfrusund
+01,Stockholm,0125,Ekerö,0125TC102,Ekerö
+01,Stockholm,0126,Huddinge,0126TB101,Gladö kvarn
+01,Stockholm,0126,Huddinge,0126TB102,Vidja
+01,Stockholm,0126,Huddinge,0126TB103,Östorp och Ådran
+01,Stockholm,0127,Botkyrka,0127TB101,Norra Riksten
+01,Stockholm,0127,Botkyrka,0127TB102,Sibble
+01,Stockholm,0127,Botkyrka,0127TB115,Kagghamra tomtområde
+01,Stockholm,0127,Botkyrka,0127TC103,Tumba
+01,Stockholm,0136,Haninge,0136TB101,Dalarö
+01,Stockholm,0136,Haninge,0136TB102,Jordbro
+01,Stockholm,0136,Haninge,0136TB103,Muskö
+01,Stockholm,0136,Haninge,0136TB104,Norra Muskö
+01,Stockholm,0136,Haninge,0136TB105,Väländan
+01,Stockholm,0136,Haninge,0136TB106,Västerhaninge
+01,Stockholm,0136,Haninge,0136TB107,Gansta och Söderby
+01,Stockholm,0136,Haninge,0136TB108,Årsta Havsbad
+01,Stockholm,0139,Upplands-Bro,0139TB101,Bro
+01,Stockholm,0139,Upplands-Bro,0139TB102,Brunna
+01,Stockholm,0139,Upplands-Bro,0139TB103,Håbo-Tibble kyrkby
+01,Stockholm,0139,Upplands-Bro,0139TB106,Rättarboda
+01,Stockholm,0139,Upplands-Bro,0139TB114,Jursta
+01,Stockholm,0139,Upplands-Bro,0139TB120,Smidö
+01,Stockholm,0139,Upplands-Bro,0139TC104,Kungsängen
+01,Stockholm,0140,Nykvarn,0140TB101,Finkarby
+01,Stockholm,0140,Nykvarn,0140TB103,Nygårds hagar
+01,Stockholm,0140,Nykvarn,0140TB104,Stensättra tomtområde
+01,Stockholm,0140,Nykvarn,0140TB105,Turinge och Vidbynäs
+01,Stockholm,0140,Nykvarn,0140TB117,Rimsjöhöjden
+01,Stockholm,0140,Nykvarn,0140TC102,Nykvarn
+01,Stockholm,0160,Täby,0160TB101,Arninge
+01,Stockholm,0162,Danderyd,0162TB101,Tranholmen
+01,Stockholm,0163,Sollentuna,0163TC103,Upplands Väsby och Sollentuna
+01,Stockholm,0180,Stockholm,0180TC101,Stockholm
+01,Stockholm,0181,Södertälje,0181TB101,Ekeby
+01,Stockholm,0181,Södertälje,0181TB102,Hölö
+01,Stockholm,0181,Södertälje,0181TB103,Järna
+01,Stockholm,0181,Södertälje,0181TB104,Mölnbo
+01,Stockholm,0181,Södertälje,0181TB105,Pershagen
+01,Stockholm,0181,Södertälje,0181TB106,"Aska, Tuna och Sandviken*"
+01,Stockholm,0181,Södertälje,0181TB107,Nibble
+01,Stockholm,0181,Södertälje,0181TB110,Vattubrinken
+01,Stockholm,0181,Södertälje,0181TB111,Viksäter och Viksberg
+01,Stockholm,0181,Södertälje,0181TB113,Kallfors
+01,Stockholm,0181,Södertälje,0181TC108,Södertälje
+01,Stockholm,0182,Nacka,0182TB102,Fisksätra
+01,Stockholm,0182,Nacka,0182TB103,Hästhagen
+01,Stockholm,0182,Nacka,0182TB104,Kil
+01,Stockholm,0182,Nacka,0182TB106,Saltsjöbaden
+01,Stockholm,0182,Nacka,0182TB108,Älgö
+01,Stockholm,0186,Lidingö,0186TB103,Sticklinge udde
+01,Stockholm,0186,Lidingö,0186TB107,Storholmen
+01,Stockholm,0186,Lidingö,0186TC102,Lidingö
+01,Stockholm,0187,Vaxholm,0187TB102,Rindö
+01,Stockholm,0187,Vaxholm,0187TB103,Resarö
+01,Stockholm,0187,Vaxholm,0187TB105,Tynningö
+01,Stockholm,0187,Vaxholm,0187TB106,Skarpö
+01,Stockholm,0187,Vaxholm,0187TC104,Vaxholm
+01,Stockholm,0188,Norrtälje,0188TB101,Bergshamra
+01,Stockholm,0188,Norrtälje,0188TB102,Blidö
+01,Stockholm,0188,Norrtälje,0188TB103,Edsbro
+01,Stockholm,0188,Norrtälje,0188TB104,Finsta
+01,Stockholm,0188,Norrtälje,0188TB105,Grisslehamn
+01,Stockholm,0188,Norrtälje,0188TB106,Hallstavik
+01,Stockholm,0188,Norrtälje,0188TB107,Herräng
+01,Stockholm,0188,Norrtälje,0188TB108,"Nabbo, Gräddö och Rävsnäs"
+01,Stockholm,0188,Norrtälje,0188TB110,Riala
+01,Stockholm,0188,Norrtälje,0188TB111,Rimbo
+01,Stockholm,0188,Norrtälje,0188TB112,Rånäs
+01,Stockholm,0188,Norrtälje,0188TB113,Skebobruk
+01,Stockholm,0188,Norrtälje,0188TB114,Spillersboda
+01,Stockholm,0188,Norrtälje,0188TB115,Nysättra
+01,Stockholm,0188,Norrtälje,0188TB116,Svanberga
+01,Stockholm,0188,Norrtälje,0188TB117,Söderby-Karl
+01,Stockholm,0188,Norrtälje,0188TB118,Södersvik
+01,Stockholm,0188,Norrtälje,0188TB119,Sättra
+01,Stockholm,0188,Norrtälje,0188TB120,Älmsta
+01,Stockholm,0188,Norrtälje,0188TB122,Hästängen och Mora
+01,Stockholm,0188,Norrtälje,0188TB138,Oxhalsö
+01,Stockholm,0188,Norrtälje,0188TB147,"Hattudden, Björnösund och Björknäs*"
+01,Stockholm,0188,Norrtälje,0188TB172,Malstaby
+01,Stockholm,0188,Norrtälje,0188TB187,Husby*
+01,Stockholm,0188,Norrtälje,0188TB189,"Grovstanäs, Hysingsvik och Solö"
+01,Stockholm,0188,Norrtälje,0188TB223,Tranvik och Ekebyholmshöjden*
+01,Stockholm,0188,Norrtälje,0188TC109,Norrtälje
+01,Stockholm,0191,Sigtuna,0191TB101,Granby
+01,Stockholm,0191,Sigtuna,0191TB103,Rosersberg
+01,Stockholm,0191,Sigtuna,0191TB104,Sigtuna
+01,Stockholm,0191,Sigtuna,0191TB105,Ölsta och Steningehöjden
+01,Stockholm,0191,Sigtuna,0191TB125,Steninge
+01,Stockholm,0191,Sigtuna,0191TB129,Venngarn
+01,Stockholm,0191,Sigtuna,0191TC102,Märsta
+01,Stockholm,0192,Nynäshamn,0192TB101,Landfjärden
+01,Stockholm,0192,Nynäshamn,0192TB102,Lidatorp och Klövsta
+01,Stockholm,0192,Nynäshamn,0192TB104,Sorunda
+01,Stockholm,0192,Nynäshamn,0192TB105,Segersäng
+01,Stockholm,0192,Nynäshamn,0192TB106,Stora Vika
+01,Stockholm,0192,Nynäshamn,0192TB107,Grödby
+01,Stockholm,0192,Nynäshamn,0192TB108,Oxnö och Svärdsö
+01,Stockholm,0192,Nynäshamn,0192TB109,Ösmo
+01,Stockholm,0192,Nynäshamn,0192TC103,Nynäshamn
+03,Uppsala,0305,Håbo,0305TB102,Vibyäng
+03,Uppsala,0305,Håbo,0305TB103,Häggeby och Vreta
+03,Uppsala,0305,Håbo,0305TB104,Krägga
+03,Uppsala,0305,Håbo,0305TB105,Råby
+03,Uppsala,0305,Håbo,0305TB106,Slottsskogen
+03,Uppsala,0305,Håbo,0305TB108,Söderskogen
+03,Uppsala,0305,Håbo,0305TB114,Kivinge
+03,Uppsala,0305,Håbo,0305TC101,Bålsta
+03,Uppsala,0319,Älvkarleby,0319TB101,Gårdskär
+03,Uppsala,0319,Älvkarleby,0319TB102,Marma
+03,Uppsala,0319,Älvkarleby,0319TB104,Älvkarleby
+03,Uppsala,0319,Älvkarleby,0319TB105,Älvkarleö
+03,Uppsala,0319,Älvkarleby,0319TC103,Skutskär
+03,Uppsala,0330,Knivsta,0330TB101,Alsike
+03,Uppsala,0330,Knivsta,0330TB103,Edeby
+03,Uppsala,0330,Knivsta,0330TC102,Knivsta
+03,Uppsala,0331,Heby,0331TB101,Harbo
+03,Uppsala,0331,Heby,0331TB103,Morgongåva
+03,Uppsala,0331,Heby,0331TB105,Tärnsjö
+03,Uppsala,0331,Heby,0331TB106,Vittinge
+03,Uppsala,0331,Heby,0331TB107,Östervåla
+03,Uppsala,0331,Heby,0331TC102,Heby
+03,Uppsala,0360,Tierp,0360TB101,Karlholmsbruk
+03,Uppsala,0360,Tierp,0360TB102,Mehedeby
+03,Uppsala,0360,Tierp,0360TB103,Månkarbo
+03,Uppsala,0360,Tierp,0360TB104,Skärplinge
+03,Uppsala,0360,Tierp,0360TB105,Söderfors
+03,Uppsala,0360,Tierp,0360TB107,Tobo
+03,Uppsala,0360,Tierp,0360TB108,Upplanda
+03,Uppsala,0360,Tierp,0360TB109,Örbyhus
+03,Uppsala,0360,Tierp,0360TC106,Tierp
+03,Uppsala,0380,Uppsala,0380TB101,Almunge
+03,Uppsala,0380,Uppsala,0380TB102,Björklinge
+03,Uppsala,0380,Uppsala,0380TB103,Jälla
+03,Uppsala,0380,Uppsala,0380TB104,Vänge
+03,Uppsala,0380,Uppsala,0380TB105,Bälinge
+03,Uppsala,0380,Uppsala,0380TB106,Bärby
+03,Uppsala,0380,Uppsala,0380TB107,Danmark
+03,Uppsala,0380,Uppsala,0380TB108,Funbo
+03,Uppsala,0380,Uppsala,0380TB109,Gunsta
+03,Uppsala,0380,Uppsala,0380TB110,Gåvsta
+03,Uppsala,0380,Uppsala,0380TB111,Håga
+03,Uppsala,0380,Uppsala,0380TB112,Järlåsa
+03,Uppsala,0380,Uppsala,0380TB113,Knutby
+03,Uppsala,0380,Uppsala,0380TB114,Läby
+03,Uppsala,0380,Uppsala,0380TB115,Länna
+03,Uppsala,0380,Uppsala,0380TB116,Lövstalöt
+03,Uppsala,0380,Uppsala,0380TB117,Selknä och Marielund
+03,Uppsala,0380,Uppsala,0380TB118,Ramstalund
+03,Uppsala,0380,Uppsala,0380TB119,Skyttorp
+03,Uppsala,0380,Uppsala,0380TB120,Skölsta
+03,Uppsala,0380,Uppsala,0380TB121,Storvreta
+03,Uppsala,0380,Uppsala,0380TB122,Sävja
+03,Uppsala,0380,Uppsala,0380TB123,Blackstalund
+03,Uppsala,0380,Uppsala,0380TB124,Ultuna
+03,Uppsala,0380,Uppsala,0380TB126,Vattholma
+03,Uppsala,0380,Uppsala,0380TB127,Ytternäs och Vreta
+03,Uppsala,0380,Uppsala,0380TB163,Vångelsta
+03,Uppsala,0380,Uppsala,0380TB238,Sydöstra Fullerö
+03,Uppsala,0380,Uppsala,0380TC125,Uppsala
+03,Uppsala,0381,Enköping,0381TB102,Fjärdhundra
+03,Uppsala,0381,Enköping,0381TB103,Grillby
+03,Uppsala,0381,Enköping,0381TB104,Haga
+03,Uppsala,0381,Enköping,0381TB105,Hummelsta
+03,Uppsala,0381,Enköping,0381TB106,Lillkyrka
+03,Uppsala,0381,Enköping,0381TB107,Bredsand
+03,Uppsala,0381,Enköping,0381TB108,Örsundsbro
+03,Uppsala,0381,Enköping,0381TB109,Örsundsbro norra
+03,Uppsala,0381,Enköping,0381TB131,Märsön
+03,Uppsala,0381,Enköping,0381TB134,Skolsta
+03,Uppsala,0381,Enköping,0381TC101,Enköping
+03,Uppsala,0382,Östhammar,0382TB101,Alunda
+03,Uppsala,0382,Östhammar,0382TB102,Dannemora
+03,Uppsala,0382,Östhammar,0382TB103,Gimo
+03,Uppsala,0382,Östhammar,0382TB104,Hargshamn
+03,Uppsala,0382,Östhammar,0382TB106,Skoby
+03,Uppsala,0382,Östhammar,0382TB107,Öregrund
+03,Uppsala,0382,Östhammar,0382TB108,Österbybruk
+03,Uppsala,0382,Östhammar,0382TC109,Östhammar
+04,Södermanland,0428,Vingåker,0428TB101,Baggetorp
+04,Södermanland,0428,Vingåker,0428TB102,Högsjö
+04,Södermanland,0428,Vingåker,0428TB103,Marmorbyn
+04,Södermanland,0428,Vingåker,0428TB104,Läppe
+04,Södermanland,0428,Vingåker,0428TC105,Vingåker
+04,Södermanland,0461,Gnesta,0461TB101,Björnlunda
+04,Södermanland,0461,Gnesta,0461TB103,Stjärnhov
+04,Södermanland,0461,Gnesta,0461TC102,Gnesta
+04,Södermanland,0480,Nyköping,0480TB102,Bergshammar
+04,Södermanland,0480,Nyköping,0480TB103,Buskhyttan
+04,Södermanland,0480,Nyköping,0480TB104,Enstaberga
+04,Södermanland,0480,Nyköping,0480TB105,Jönåker
+04,Södermanland,0480,Nyköping,0480TB106,Kvegerö
+04,Södermanland,0480,Nyköping,0480TB108,Nävekvarn
+04,Södermanland,0480,Nyköping,0480TB111,Sjösa
+04,Södermanland,0480,Nyköping,0480TB112,Skeppsvik och Sjöskogen
+04,Södermanland,0480,Nyköping,0480TB113,Stavsjö
+04,Södermanland,0480,Nyköping,0480TB114,Stigtomta
+04,Södermanland,0480,Nyköping,0480TB115,Svalsta
+04,Södermanland,0480,Nyköping,0480TB116,Tystberga
+04,Södermanland,0480,Nyköping,0480TB117,Vrena
+04,Södermanland,0480,Nyköping,0480TB118,Ålberga
+04,Södermanland,0480,Nyköping,0480TB143,Örstig
+04,Södermanland,0480,Nyköping,0480TC107,Nyköping
+04,Södermanland,0481,Oxelösund,0481TB101,Inskogen
+04,Södermanland,0481,Oxelösund,0481TC102,Oxelösund
+04,Södermanland,0482,Flen,0482TB101,Bettna
+04,Södermanland,0482,Flen,0482TB103,Hälleforsnäs
+04,Södermanland,0482,Flen,0482TB104,Malmköping
+04,Södermanland,0482,Flen,0482TB105,Mellösa
+04,Södermanland,0482,Flen,0482TB106,Orrhammar
+04,Södermanland,0482,Flen,0482TB107,Skebokvarn
+04,Södermanland,0482,Flen,0482TB108,Sparreholm
+04,Södermanland,0482,Flen,0482TC102,Flen
+04,Södermanland,0483,Katrineholm,0483TB101,Bie
+04,Södermanland,0483,Katrineholm,0483TB102,Björkvik
+04,Södermanland,0483,Katrineholm,0483TB103,Djulö kvarn
+04,Södermanland,0483,Katrineholm,0483TB104,Forssjö
+04,Södermanland,0483,Katrineholm,0483TB106,Sköldinge
+04,Södermanland,0483,Katrineholm,0483TB107,Strångsjö
+04,Södermanland,0483,Katrineholm,0483TB108,Valla
+04,Södermanland,0483,Katrineholm,0483TB109,Äsköping
+04,Södermanland,0483,Katrineholm,0483TC105,Katrineholm
+04,Södermanland,0484,Eskilstuna,0484TB101,Alberga
+04,Södermanland,0484,Eskilstuna,0484TB103,Bälgviken
+04,Södermanland,0484,Eskilstuna,0484TB105,Hållsta
+04,Södermanland,0484,Eskilstuna,0484TB106,Hällberga
+04,Södermanland,0484,Eskilstuna,0484TB107,Hällbybrunn
+04,Södermanland,0484,Eskilstuna,0484TB108,"Kullersta, Kolsta och Hensta"
+04,Södermanland,0484,Eskilstuna,0484TB109,Kjulaås
+04,Södermanland,0484,Eskilstuna,0484TB111,Skiftinge
+04,Södermanland,0484,Eskilstuna,0484TB112,Sundbyholm
+04,Södermanland,0484,Eskilstuna,0484TB113,Torshälla
+04,Södermanland,0484,Eskilstuna,0484TB115,Tumbo
+04,Södermanland,0484,Eskilstuna,0484TB116,Udden
+04,Södermanland,0484,Eskilstuna,0484TB118,Ärla
+04,Södermanland,0484,Eskilstuna,0484TB159,Gredbylund och Odlaren*
+04,Södermanland,0484,Eskilstuna,0484TC104,Eskilstuna
+04,Södermanland,0486,Strängnäs,0486TB101,Abborrberget
+04,Södermanland,0486,Strängnäs,0486TB102,Sanda
+04,Södermanland,0486,Strängnäs,0486TB103,Härad
+04,Södermanland,0486,Strängnäs,0486TB104,Kalkudden
+04,Södermanland,0486,Strängnäs,0486TB105,Marielund
+04,Södermanland,0486,Strängnäs,0486TB106,Mariefred
+04,Södermanland,0486,Strängnäs,0486TB107,Merlänna
+04,Södermanland,0486,Strängnäs,0486TB108,Stallarholmen
+04,Södermanland,0486,Strängnäs,0486TB110,Husby och Tuna
+04,Södermanland,0486,Strängnäs,0486TB112,Åkers styckebruk
+04,Södermanland,0486,Strängnäs,0486TC109,Strängnäs
+04,Södermanland,0488,Trosa,0488TB103,Vagnhärad
+04,Södermanland,0488,Trosa,0488TB104,Sund
+04,Södermanland,0488,Trosa,0488TB105,Västerljung
+04,Södermanland,0488,Trosa,0488TB107,Åda
+04,Södermanland,0488,Trosa,0488TB108,Lagnöviken
+04,Södermanland,0488,Trosa,0488TB110,Stensund
+04,Södermanland,0488,Trosa,0488TC102,Trosa
+05,Östergötland,0509,Ödeshög,0509TB101,Hästholmen
+05,Östergötland,0509,Ödeshög,0509TC103,Ödeshög
+05,Östergötland,0512,Ydre,0512TB102,Hestra
+05,Östergötland,0512,Ydre,0512TB103,Rydsnäs
+05,Östergötland,0512,Ydre,0512TC104,Österbymo
+05,Östergötland,0513,Kinda,0513TB101,Horn
+05,Östergötland,0513,Kinda,0513TB103,Rimforsa
+05,Östergötland,0513,Kinda,0513TC102,Kisa
+05,Östergötland,0560,Boxholm,0560TB102,Strålsnäs
+05,Östergötland,0560,Boxholm,0560TC101,Boxholm
+05,Östergötland,0561,Åtvidaberg,0561TB101,Berg
+05,Östergötland,0561,Åtvidaberg,0561TB102,Björsäter
+05,Östergötland,0561,Åtvidaberg,0561TB103,Falerum
+05,Östergötland,0561,Åtvidaberg,0561TB104,Grebo
+05,Östergötland,0561,Åtvidaberg,0561TC105,Åtvidaberg
+05,Östergötland,0562,Finspång,0562TB101,Borggård
+05,Östergötland,0562,Finspång,0562TB102,Falla
+05,Östergötland,0562,Finspång,0562TB104,Grytgöl
+05,Östergötland,0562,Finspång,0562TB105,Hällestad
+05,Östergötland,0562,Finspång,0562TB107,Igelfors
+05,Östergötland,0562,Finspång,0562TB108,Ljusfallshammar
+05,Östergötland,0562,Finspång,0562TB109,Lotorp
+05,Östergötland,0562,Finspång,0562TB110,Butbro
+05,Östergötland,0562,Finspång,0562TB111,Rejmyre
+05,Östergötland,0562,Finspång,0562TB112,Sonstorp
+05,Östergötland,0562,Finspång,0562TC103,Finspång
+05,Östergötland,0563,Valdemarsvik,0563TB101,Gryt
+05,Östergötland,0563,Valdemarsvik,0563TB102,Gusum
+05,Östergötland,0563,Valdemarsvik,0563TB103,Ringarum
+05,Östergötland,0563,Valdemarsvik,0563TC104,Valdemarsvik
+05,Östergötland,0580,Linköping,0580TB101,Askeby
+05,Östergötland,0580,Linköping,0580TB102,Bankekind
+05,Östergötland,0580,Linköping,0580TB103,Bergs slussar
+05,Östergötland,0580,Linköping,0580TB104,Bestorp
+05,Östergötland,0580,Linköping,0580TB105,Brokind
+05,Östergötland,0580,Linköping,0580TB106,Ekängen
+05,Östergötland,0580,Linköping,0580TB107,Gistad
+05,Östergötland,0580,Linköping,0580TB109,Kränge
+05,Östergötland,0580,Linköping,0580TB110,Linghem
+05,Östergötland,0580,Linköping,0580TB112,Ljungsbro
+05,Östergötland,0580,Linköping,0580TB113,Malmslätt
+05,Östergötland,0580,Linköping,0580TB114,Nykil
+05,Östergötland,0580,Linköping,0580TB115,Rappestad
+05,Östergötland,0580,Linköping,0580TB116,Sjögestad
+05,Östergötland,0580,Linköping,0580TB117,Skeda udde
+05,Östergötland,0580,Linköping,0580TB118,Slaka
+05,Östergötland,0580,Linköping,0580TB119,Sturefors
+05,Östergötland,0580,Linköping,0580TB120,Tallboda
+05,Östergötland,0580,Linköping,0580TB122,Vikingstad
+05,Östergötland,0580,Linköping,0580TB123,Västerlösa
+05,Östergötland,0580,Linköping,0580TB140,Maspelösa
+05,Östergötland,0580,Linköping,0580TC111,Linköping
+05,Östergötland,0581,Norrköping,0581TB103,Eksund
+05,Östergötland,0581,Norrköping,0581TB105,Djurön
+05,Östergötland,0581,Norrköping,0581TB106,Graversfors
+05,Östergötland,0581,Norrköping,0581TB107,Herstadberg
+05,Östergötland,0581,Norrköping,0581TB109,Kimstad
+05,Östergötland,0581,Norrköping,0581TB110,Krokek
+05,Östergötland,0581,Norrköping,0581TB111,Lindö
+05,Östergötland,0581,Norrköping,0581TB113,Ljunga
+05,Östergötland,0581,Norrköping,0581TB115,Marby och Marbystrand
+05,Östergötland,0581,Norrköping,0581TB117,Norsholm
+05,Östergötland,0581,Norrköping,0581TB118,Simonstorp
+05,Östergötland,0581,Norrköping,0581TB120,Skärblacka
+05,Östergötland,0581,Norrköping,0581TB122,Svärtinge
+05,Östergötland,0581,Norrköping,0581TB123,Vånga
+05,Östergötland,0581,Norrköping,0581TB124,Åby
+05,Östergötland,0581,Norrköping,0581TB126,Öbonäs
+05,Östergötland,0581,Norrköping,0581TB127,Östra Husby
+05,Östergötland,0581,Norrköping,0581TB135,Lundby och Malm
+05,Östergötland,0581,Norrköping,0581TB160,Kartlandet och Ringstadmo
+05,Östergötland,0581,Norrköping,0581TB161,Sidus*
+05,Östergötland,0581,Norrköping,0581TC116,Norrköping
+05,Östergötland,0582,Söderköping,0582TB101,Luddingsbo
+05,Östergötland,0582,Söderköping,0582TB102,Snöveltorp
+05,Östergötland,0582,Söderköping,0582TB103,Mogata
+05,Östergötland,0582,Söderköping,0582TB105,Västra Husby
+05,Östergötland,0582,Söderköping,0582TB106,Östra Ryd
+05,Östergötland,0582,Söderköping,0582TC104,Söderköping
+05,Östergötland,0583,Motala,0583TB101,Borensberg
+05,Östergötland,0583,Motala,0583TB102,Fornåsa
+05,Östergötland,0583,Motala,0583TB103,Fågelsta
+05,Östergötland,0583,Motala,0583TB105,Klockrike
+05,Östergötland,0583,Motala,0583TB107,Nykyrka
+05,Östergötland,0583,Motala,0583TB108,Tjällmo
+05,Östergötland,0583,Motala,0583TB110,Österstad
+05,Östergötland,0583,Motala,0583TB130,Södra Freberga
+05,Östergötland,0583,Motala,0583TC106,Motala
+05,Östergötland,0584,Vadstena,0584TC102,Vadstena
+05,Östergötland,0586,Mjölby,0586TB101,Hogstad
+05,Östergötland,0586,Mjölby,0586TB102,Mantorp
+05,Östergötland,0586,Mjölby,0586TB104,Skänninge
+05,Östergötland,0586,Mjölby,0586TB105,Spångsholm
+05,Östergötland,0586,Mjölby,0586TB106,Sya
+05,Östergötland,0586,Mjölby,0586TB107,Väderstad
+05,Östergötland,0586,Mjölby,0586TC103,Mjölby
+06,Jönköping,0604,Aneby,0604TB102,Frinnaryd
+06,Jönköping,0604,Aneby,0604TB103,Sundhultsbrunn
+06,Jönköping,0604,Aneby,0604TC101,Aneby
+06,Jönköping,0617,Gnosjö,0617TB102,Hillerstorp
+06,Jönköping,0617,Gnosjö,0617TB103,Kulltorp
+06,Jönköping,0617,Gnosjö,0617TB105,Nissafors
+06,Jönköping,0617,Gnosjö,0617TB106,Törestorp
+06,Jönköping,0617,Gnosjö,0617TC101,Gnosjö
+06,Jönköping,0642,Mullsjö,0642TB102,Sandhem
+06,Jönköping,0642,Mullsjö,0642TC101,Mullsjö
+06,Jönköping,0643,Habo,0643TB101,Rödån
+06,Jönköping,0643,Habo,0643TB102,Fagerhult
+06,Jönköping,0643,Habo,0643TB103,Furusjö
+06,Jönköping,0643,Habo,0643TC104,Habo
+06,Jönköping,0662,Gislaved,0662TB101,Anderstorp
+06,Jönköping,0662,Gislaved,0662TB102,Broaryd
+06,Jönköping,0662,Gislaved,0662TB103,Burseryd
+06,Jönköping,0662,Gislaved,0662TB105,Hestra
+06,Jönköping,0662,Gislaved,0662TB106,Reftele
+06,Jönköping,0662,Gislaved,0662TB107,Skeppshult
+06,Jönköping,0662,Gislaved,0662TB108,Smålandsstenar
+06,Jönköping,0662,Gislaved,0662TC104,Gislaved
+06,Jönköping,0665,Vaggeryd,0665TB101,Bondstorp
+06,Jönköping,0665,Vaggeryd,0665TB102,Hok
+06,Jönköping,0665,Vaggeryd,0665TB103,Klevshult
+06,Jönköping,0665,Vaggeryd,0665TC104,Skillingaryd
+06,Jönköping,0665,Vaggeryd,0665TC105,Vaggeryd
+06,Jönköping,0680,Jönköping,0680TB101,Bankeryd
+06,Jönköping,0680,Jönköping,0680TB103,Bottnaryd
+06,Jönköping,0680,Jönköping,0680TB104,Ölmstad
+06,Jönköping,0680,Jönköping,0680TB105,"Bosgård, Rudu och Gissebo"
+06,Jönköping,0680,Jönköping,0680TB106,Gränna
+06,Jönköping,0680,Jönköping,0680TB108,Kaxholmen
+06,Jönköping,0680,Jönköping,0680TB109,Kortebo
+06,Jönköping,0680,Jönköping,0680TB110,Lekeryd
+06,Jönköping,0680,Jönköping,0680TB111,Barnarp och Odensjö
+06,Jönköping,0680,Jönköping,0680TB112,Ryd
+06,Jönköping,0680,Jönköping,0680TB113,Skärstad
+06,Jönköping,0680,Jönköping,0680TB114,Taberg
+06,Jönköping,0680,Jönköping,0680TB115,Tenhult
+06,Jönköping,0680,Jönköping,0680TB117,Tunnerstad
+06,Jönköping,0680,Jönköping,0680TB118,Öggestorp
+06,Jönköping,0680,Jönköping,0680TB119,Örserum
+06,Jönköping,0680,Jönköping,0680TB156,Tovrida udde*
+06,Jönköping,0680,Jönköping,0680TB158,"Hulukvarn, Ulvstorp, Västersjön och Hedenstorp"
+06,Jönköping,0680,Jönköping,0680TC107,Jönköping
+06,Jönköping,0682,Nässjö,0682TB101,Anneberg
+06,Jönköping,0682,Nässjö,0682TB102,Bodafors
+06,Jönköping,0682,Nässjö,0682TB103,Flisby
+06,Jönköping,0682,Nässjö,0682TB104,Forserum
+06,Jönköping,0682,Nässjö,0682TB105,Fredriksdal
+06,Jönköping,0682,Nässjö,0682TB106,Grimstorp
+06,Jönköping,0682,Nässjö,0682TB107,Malmbäck
+06,Jönköping,0682,Nässjö,0682TB109,Ormaryd
+06,Jönköping,0682,Nässjö,0682TB111,Solberga
+06,Jönköping,0682,Nässjö,0682TB112,Stensjön
+06,Jönköping,0682,Nässjö,0682TB113,Äng
+06,Jönköping,0682,Nässjö,0682TC108,Nässjö
+06,Jönköping,0683,Värnamo,0683TB101,Bor
+06,Jönköping,0683,Värnamo,0683TB102,Bredaryd
+06,Jönköping,0683,Värnamo,0683TB103,Forsheda
+06,Jönköping,0683,Värnamo,0683TB104,Horda
+06,Jönköping,0683,Värnamo,0683TB105,Hånger
+06,Jönköping,0683,Värnamo,0683TB106,Kärda
+06,Jönköping,0683,Värnamo,0683TB107,Lanna
+06,Jönköping,0683,Värnamo,0683TB108,Rydaholm
+06,Jönköping,0683,Värnamo,0683TB111,Åminne
+06,Jönköping,0683,Värnamo,0683TB117,Ekenhaga
+06,Jönköping,0683,Värnamo,0683TC110,Värnamo
+06,Jönköping,0684,Sävsjö,0684TB101,Rörvik
+06,Jönköping,0684,Sävsjö,0684TB102,Stockaryd
+06,Jönköping,0684,Sävsjö,0684TB104,Vrigstad
+06,Jönköping,0684,Sävsjö,0684TC103,Sävsjö
+06,Jönköping,0685,Vetlanda,0685TB101,Björköby
+06,Jönköping,0685,Vetlanda,0685TB102,Ekenässjön
+06,Jönköping,0685,Vetlanda,0685TB103,Holsbybrunn
+06,Jönköping,0685,Vetlanda,0685TB104,Kvillsfors
+06,Jönköping,0685,Vetlanda,0685TB105,Landsbro
+06,Jönköping,0685,Vetlanda,0685TB106,Myresjö
+06,Jönköping,0685,Vetlanda,0685TB108,Pauliström
+06,Jönköping,0685,Vetlanda,0685TB109,Sjunnen
+06,Jönköping,0685,Vetlanda,0685TB110,Skede
+06,Jönköping,0685,Vetlanda,0685TB112,Korsberga
+06,Jönköping,0685,Vetlanda,0685TC111,Vetlanda
+06,Jönköping,0686,Eksjö,0686TB101,Bruzaholm
+06,Jönköping,0686,Eksjö,0686TB103,Hjältevad
+06,Jönköping,0686,Eksjö,0686TB104,Hult
+06,Jönköping,0686,Eksjö,0686TB105,Ingatorp
+06,Jönköping,0686,Eksjö,0686TB106,Mariannelund
+06,Jönköping,0686,Eksjö,0686TC102,Eksjö
+06,Jönköping,0687,Tranås,0687TB101,Gripenberg
+06,Jönköping,0687,Tranås,0687TB102,"Hätte, Seglarvik och Sandvik"
+06,Jönköping,0687,Tranås,0687TB103,Sommen
+06,Jönköping,0687,Tranås,0687TB108,Norraby
+06,Jönköping,0687,Tranås,0687TC104,Tranås
+07,Kronoberg,0760,Uppvidinge,0760TB101,Alstermo
+07,Kronoberg,0760,Uppvidinge,0760TB103,Lenhovda
+07,Kronoberg,0760,Uppvidinge,0760TB104,Norrhult-Klavreström
+07,Kronoberg,0760,Uppvidinge,0760TB106,Älghult
+07,Kronoberg,0760,Uppvidinge,0760TC105,Åseda
+07,Kronoberg,0761,Lessebo,0761TB101,Hovmantorp
+07,Kronoberg,0761,Lessebo,0761TB102,Kosta
+07,Kronoberg,0761,Lessebo,0761TB104,Skruv
+07,Kronoberg,0761,Lessebo,0761TC103,Lessebo
+07,Kronoberg,0763,Tingsryd,0763TB103,Konga
+07,Kronoberg,0763,Tingsryd,0763TB104,Linneryd
+07,Kronoberg,0763,Tingsryd,0763TB105,Ryd
+07,Kronoberg,0763,Tingsryd,0763TB106,Rävemåla
+07,Kronoberg,0763,Tingsryd,0763TB108,Urshult
+07,Kronoberg,0763,Tingsryd,0763TB109,Väckelsång
+07,Kronoberg,0763,Tingsryd,0763TC107,Tingsryd
+07,Kronoberg,0764,Alvesta,0764TB102,Grimslöv
+07,Kronoberg,0764,Alvesta,0764TB103,Hjortsberga
+07,Kronoberg,0764,Alvesta,0764TB104,Moheda
+07,Kronoberg,0764,Alvesta,0764TB105,Torpsbruk
+07,Kronoberg,0764,Alvesta,0764TB106,Vislanda
+07,Kronoberg,0764,Alvesta,0764TC101,Alvesta
+07,Kronoberg,0765,Älmhult,0765TB101,Delary
+07,Kronoberg,0765,Älmhult,0765TB102,Diö
+07,Kronoberg,0765,Älmhult,0765TB103,Eneryda
+07,Kronoberg,0765,Älmhult,0765TB105,Liatorp
+07,Kronoberg,0765,Älmhult,0765TC106,Älmhult
+07,Kronoberg,0767,Markaryd,0767TB102,Strömsnäsbruk
+07,Kronoberg,0767,Markaryd,0767TB104,Traryd
+07,Kronoberg,0767,Markaryd,0767TC101,Markaryd
+07,Kronoberg,0780,Växjö,0780TB102,Braås
+07,Kronoberg,0780,Växjö,0780TB103,Furuby
+07,Kronoberg,0780,Växjö,0780TB104,Gemla
+07,Kronoberg,0780,Växjö,0780TB105,Ingelstad
+07,Kronoberg,0780,Växjö,0780TB106,Lammhult
+07,Kronoberg,0780,Växjö,0780TB107,Nöbbele
+07,Kronoberg,0780,Växjö,0780TB108,Rottne
+07,Kronoberg,0780,Växjö,0780TB109,Tävelsås
+07,Kronoberg,0780,Växjö,0780TB111,Åby
+07,Kronoberg,0780,Växjö,0780TB112,Åryd
+07,Kronoberg,0780,Växjö,0780TB138,Öja
+07,Kronoberg,0780,Växjö,0780TC110,Växjö
+07,Kronoberg,0781,Ljungby,0781TB101,Agunnaryd
+07,Kronoberg,0781,Ljungby,0781TB102,Angelstad
+07,Kronoberg,0781,Ljungby,0781TB103,Kånna
+07,Kronoberg,0781,Ljungby,0781TB104,Lagan
+07,Kronoberg,0781,Ljungby,0781TB105,Lidhult
+07,Kronoberg,0781,Ljungby,0781TB107,Ryssby
+07,Kronoberg,0781,Ljungby,0781TB108,Vittaryd
+07,Kronoberg,0781,Ljungby,0781TC106,Ljungby
+08,Kalmar,0821,Högsby,0821TB101,Berga
+08,Kalmar,0821,Högsby,0821TB103,Fågelfors
+08,Kalmar,0821,Högsby,0821TB106,Ruda
+08,Kalmar,0821,Högsby,0821TC105,Högsby
+08,Kalmar,0834,Torsås,0834TB101,Bergkvara
+08,Kalmar,0834,Torsås,0834TB102,Söderåkra
+08,Kalmar,0834,Torsås,0834TC103,Torsås
+08,Kalmar,0840,Mörbylånga,0840TB101,Algutsrum
+08,Kalmar,0840,Mörbylånga,0840TB103,Degerhamn
+08,Kalmar,0840,Mörbylånga,0840TB104,Färjestaden
+08,Kalmar,0840,Mörbylånga,0840TB105,Glömminge och Strandskogen
+08,Kalmar,0840,Mörbylånga,0840TB107,Gårdby
+08,Kalmar,0840,Mörbylånga,0840TB108,Kastlösa
+08,Kalmar,0840,Mörbylånga,0840TB112,Skogsby
+08,Kalmar,0840,Mörbylånga,0840TB113,Vickleby
+08,Kalmar,0840,Mörbylånga,0840TB134,Stora Frö och Haga park
+08,Kalmar,0840,Mörbylånga,0840TC109,Mörbylånga
+08,Kalmar,0860,Hultsfred,0860TB102,Järnforsen
+08,Kalmar,0860,Hultsfred,0860TB104,Målilla
+08,Kalmar,0860,Hultsfred,0860TB105,Mörlunda
+08,Kalmar,0860,Hultsfred,0860TB106,Rosenfors
+08,Kalmar,0860,Hultsfred,0860TB107,Silverdalen
+08,Kalmar,0860,Hultsfred,0860TB108,Vena
+08,Kalmar,0860,Hultsfred,0860TB109,Virserum
+08,Kalmar,0860,Hultsfred,0860TC101,Hultsfred
+08,Kalmar,0861,Mönsterås,0861TB101,Blomstermåla
+08,Kalmar,0861,Mönsterås,0861TB103,Fliseryd
+08,Kalmar,0861,Mönsterås,0861TB105,Oknö
+08,Kalmar,0861,Mönsterås,0861TB106,Timmernabben
+08,Kalmar,0861,Mönsterås,0861TC104,Mönsterås
+08,Kalmar,0862,Emmaboda,0862TB104,Johansfors
+08,Kalmar,0862,Emmaboda,0862TB105,Långasjö
+08,Kalmar,0862,Emmaboda,0862TB106,Vissefjärda
+08,Kalmar,0862,Emmaboda,0862TC102,Emmaboda
+08,Kalmar,0880,Kalmar,0880TB102,Dunö
+08,Kalmar,0880,Kalmar,0880TB103,Hagby
+08,Kalmar,0880,Kalmar,0880TB104,Halltorp
+08,Kalmar,0880,Kalmar,0880TB106,Lindsdal
+08,Kalmar,0880,Kalmar,0880TB107,Ljungbyholm
+08,Kalmar,0880,Kalmar,0880TB108,Läckeby
+08,Kalmar,0880,Kalmar,0880TB109,Påryd
+08,Kalmar,0880,Kalmar,0880TB110,Rinkabyholm
+08,Kalmar,0880,Kalmar,0880TB111,Rockneby
+08,Kalmar,0880,Kalmar,0880TB112,Smedby
+08,Kalmar,0880,Kalmar,0880TB113,Drag
+08,Kalmar,0880,Kalmar,0880TB114,Trekanten
+08,Kalmar,0880,Kalmar,0880TB115,Tvärskog
+08,Kalmar,0880,Kalmar,0880TB116,Vassmolösa
+08,Kalmar,0880,Kalmar,0880TB117,Åmunnen
+08,Kalmar,0880,Kalmar,0880TB137,Revsudden
+08,Kalmar,0880,Kalmar,0880TC105,Kalmar
+08,Kalmar,0881,Nybro,0881TB101,Alsterbro
+08,Kalmar,0881,Nybro,0881TB102,Bäckebo
+08,Kalmar,0881,Nybro,0881TB103,Flerohopp
+08,Kalmar,0881,Nybro,0881TB104,Flygsfors
+08,Kalmar,0881,Nybro,0881TB105,Kristvallabrunn
+08,Kalmar,0881,Nybro,0881TB108,Orrefors
+08,Kalmar,0881,Nybro,0881TB109,Örsjö
+08,Kalmar,0881,Nybro,0881TC107,Nybro
+08,Kalmar,0882,Oskarshamn,0882TB101,Bockara
+08,Kalmar,0882,Oskarshamn,0882TB102,Emsfors
+08,Kalmar,0882,Oskarshamn,0882TB103,Figeholm
+08,Kalmar,0882,Oskarshamn,0882TB104,Fårbo
+08,Kalmar,0882,Oskarshamn,0882TB105,Kristdala
+08,Kalmar,0882,Oskarshamn,0882TB109,Påskallavik
+08,Kalmar,0882,Oskarshamn,0882TB112,Stångehamn
+08,Kalmar,0882,Oskarshamn,0882TC108,Oskarshamn
+08,Kalmar,0883,Västervik,0883TB102,Ankarsrum
+08,Kalmar,0883,Västervik,0883TB104,Edsbruk
+08,Kalmar,0883,Västervik,0883TB105,Gamleby
+08,Kalmar,0883,Västervik,0883TB106,Gunnebo
+08,Kalmar,0883,Västervik,0883TB107,Hjorted
+08,Kalmar,0883,Västervik,0883TB109,Loftahammar
+08,Kalmar,0883,Västervik,0883TB110,Piperskärr
+08,Kalmar,0883,Västervik,0883TB111,Totebo
+08,Kalmar,0883,Västervik,0883TB113,Överum
+08,Kalmar,0883,Västervik,0883TC112,Västervik
+08,Kalmar,0884,Vimmerby,0884TB101,Frödinge
+08,Kalmar,0884,Vimmerby,0884TB102,Gullringen
+08,Kalmar,0884,Vimmerby,0884TB104,Storebro
+08,Kalmar,0884,Vimmerby,0884TB105,Södra Vi
+08,Kalmar,0884,Vimmerby,0884TB106,Tuna
+08,Kalmar,0884,Vimmerby,0884TC107,Vimmerby
+08,Kalmar,0885,Borgholm,0885TB103,Rälla
+08,Kalmar,0885,Borgholm,0885TB105,Löttorp
+08,Kalmar,0885,Borgholm,0885TB122,Böda
+08,Kalmar,0885,Borgholm,0885TC102,Borgholm
+09,Gotland,0980,Gotland,0980TB101,Burgsvik
+09,Gotland,0980,Gotland,0980TB102,Fårösund
+09,Gotland,0980,Gotland,0980TB103,Norra Visby
+09,Gotland,0980,Gotland,0980TB104,Havdhem
+09,Gotland,0980,Gotland,0980TB105,Hemse
+09,Gotland,0980,Gotland,0980TB107,Klintehamn
+09,Gotland,0980,Gotland,0980TB109,Lärbro
+09,Gotland,0980,Gotland,0980TB111,Romakloster
+09,Gotland,0980,Gotland,0980TB113,Slite
+09,Gotland,0980,Gotland,0980TB114,Brissund och Själsö
+09,Gotland,0980,Gotland,0980TB115,Stånga
+09,Gotland,0980,Gotland,0980TB116,Tingstäde
+09,Gotland,0980,Gotland,0980TB117,Tofta
+09,Gotland,0980,Gotland,0980TB118,Vibble
+09,Gotland,0980,Gotland,0980TB120,Väskinde
+09,Gotland,0980,Gotland,0980TB121,Västerhejde
+09,Gotland,0980,Gotland,0980TC119,Visby
+10,Blekinge,1060,Olofström,1060TB101,Gränum
+10,Blekinge,1060,Olofström,1060TB102,Jämshög
+10,Blekinge,1060,Olofström,1060TB103,Kyrkhult
+10,Blekinge,1060,Olofström,1060TB105,Vilshult
+10,Blekinge,1060,Olofström,1060TC104,Olofström
+10,Blekinge,1080,Karlskrona,1080TB102,Drottningskär
+10,Blekinge,1080,Karlskrona,1080TB103,Fridlevstad
+10,Blekinge,1080,Karlskrona,1080TB104,Fågelmara
+10,Blekinge,1080,Karlskrona,1080TB105,Gängletorp
+10,Blekinge,1080,Karlskrona,1080TB106,Hasslö
+10,Blekinge,1080,Karlskrona,1080TB107,Holmsjö
+10,Blekinge,1080,Karlskrona,1080TB108,Jämjö
+10,Blekinge,1080,Karlskrona,1080TB110,Kättilsmåla
+10,Blekinge,1080,Karlskrona,1080TB111,Nättraby
+10,Blekinge,1080,Karlskrona,1080TB112,Nävragöl
+10,Blekinge,1080,Karlskrona,1080TB113,Ramdala
+10,Blekinge,1080,Karlskrona,1080TB114,Rödeby
+10,Blekinge,1080,Karlskrona,1080TB115,Skavkulla och Skillingenäs
+10,Blekinge,1080,Karlskrona,1080TB116,Sturkö
+10,Blekinge,1080,Karlskrona,1080TB117,Sjuhalla
+10,Blekinge,1080,Karlskrona,1080TB118,Spjutsbygd
+10,Blekinge,1080,Karlskrona,1080TB119,Torhamn
+10,Blekinge,1080,Karlskrona,1080TB120,Tving
+10,Blekinge,1080,Karlskrona,1080TB142,Färmanstorp och Skavkulla brygga*
+10,Blekinge,1080,Karlskrona,1080TB163,Stensnäset och Trummenäs
+10,Blekinge,1080,Karlskrona,1080TC109,Karlskrona
+10,Blekinge,1081,Ronneby,1081TB101,Backaryd
+10,Blekinge,1081,Ronneby,1081TB102,Bräkne-Hoby
+10,Blekinge,1081,Ronneby,1081TB103,Eringsboda
+10,Blekinge,1081,Ronneby,1081TB104,Hallabro
+10,Blekinge,1081,Ronneby,1081TB105,Johannishus
+10,Blekinge,1081,Ronneby,1081TB106,Kallinge
+10,Blekinge,1081,Ronneby,1081TB107,"Bökenäs, Korsanäs och Kuggeboda"
+10,Blekinge,1081,Ronneby,1081TB108,Listerby
+10,Blekinge,1081,Ronneby,1081TB110,Ronnebyhamn
+10,Blekinge,1081,Ronneby,1081TB111,Spjälkö och Saxemara
+10,Blekinge,1081,Ronneby,1081TC109,Ronneby
+10,Blekinge,1082,Karlshamn,1082TB101,Hällaryd
+10,Blekinge,1082,Karlshamn,1082TB103,Mörrum
+10,Blekinge,1082,Karlshamn,1082TB104,Svängsta
+10,Blekinge,1082,Karlshamn,1082TB105,Horsaryd och Stilleryd
+10,Blekinge,1082,Karlshamn,1082TB107,Åryd
+10,Blekinge,1082,Karlshamn,1082TC102,Karlshamn
+10,Blekinge,1083,Sölvesborg,1083TB102,Hällevik
+10,Blekinge,1083,Sölvesborg,1083TB103,Hörvik
+10,Blekinge,1083,Sölvesborg,1083TB104,Lörby
+10,Blekinge,1083,Sölvesborg,1083TB105,Mjällby
+10,Blekinge,1083,Sölvesborg,1083TB107,Norje
+10,Blekinge,1083,Sölvesborg,1083TB108,Pukavik
+10,Blekinge,1083,Sölvesborg,1083TB111,Ysane
+10,Blekinge,1083,Sölvesborg,1083TB114,Ljungaviken
+10,Blekinge,1083,Sölvesborg,1083TC109,Sölvesborg
+12,Skåne,1214,Svalöv,1214TB101,Billeberga
+12,Skåne,1214,Svalöv,1214TB102,Kågeröd
+12,Skåne,1214,Svalöv,1214TB103,Röstånga
+12,Skåne,1214,Svalöv,1214TB105,Teckomatorp
+12,Skåne,1214,Svalöv,1214TB106,Tågarp
+12,Skåne,1214,Svalöv,1214TC104,Svalöv
+12,Skåne,1230,Staffanstorp,1230TB101,Bergströmshusen
+12,Skåne,1230,Staffanstorp,1230TB103,Hjärup
+12,Skåne,1230,Staffanstorp,1230TB104,Kyrkheddinge
+12,Skåne,1230,Staffanstorp,1230TB115,Nordanå
+12,Skåne,1230,Staffanstorp,1230TC105,Staffanstorp
+12,Skåne,1231,Burlöv,1231TB101,Burlövs egnahem
+12,Skåne,1231,Burlöv,1231TB102,Åkarp
+12,Skåne,1233,Vellinge,1233TB101,Arrie
+12,Skåne,1233,Vellinge,1233TB102,Gessie Villastad
+12,Skåne,1233,Vellinge,1233TB103,Hököpinge
+12,Skåne,1233,Vellinge,1233TB104,Höllviken och Ljunghusen
+12,Skåne,1233,Vellinge,1233TB107,Skanör med Falsterbo
+12,Skåne,1233,Vellinge,1233TB109,Västra Ingelstad
+12,Skåne,1233,Vellinge,1233TB110,Östra Grevie
+12,Skåne,1233,Vellinge,1233TC108,Vellinge
+12,Skåne,1256,Östra Göinge,1256TB102,Glimåkra
+12,Skåne,1256,Östra Göinge,1256TB103,Hanaskog
+12,Skåne,1256,Östra Göinge,1256TB104,Hjärsås
+12,Skåne,1256,Östra Göinge,1256TB105,Immeln
+12,Skåne,1256,Östra Göinge,1256TB106,Knislinge
+12,Skåne,1256,Östra Göinge,1256TB107,Sibbhult
+12,Skåne,1256,Östra Göinge,1256TC101,Broby
+12,Skåne,1257,Örkelljunga,1257TB101,Eket
+12,Skåne,1257,Örkelljunga,1257TB102,Skånes-Fagerhult
+12,Skåne,1257,Örkelljunga,1257TB103,Åsljunga
+12,Skåne,1257,Örkelljunga,1257TC104,Örkelljunga
+12,Skåne,1260,Bjuv,1260TB103,Ekeby
+12,Skåne,1260,Bjuv,1260TB104,Gunnarstorp
+12,Skåne,1260,Bjuv,1260TC102,Bjuv
+12,Skåne,1261,Kävlinge,1261TB101,Järavallen
+12,Skåne,1261,Kävlinge,1261TB102,Barsebäck
+12,Skåne,1261,Kävlinge,1261TB103,Barsebäckshamn
+12,Skåne,1261,Kävlinge,1261TB104,Dösjebro
+12,Skåne,1261,Kävlinge,1261TB105,Furulund
+12,Skåne,1261,Kävlinge,1261TB106,Hofterup
+12,Skåne,1261,Kävlinge,1261TB108,Lilla Harrie
+12,Skåne,1261,Kävlinge,1261TB109,Löddeköpinge
+12,Skåne,1261,Kävlinge,1261TB110,Sandskogen
+12,Skåne,1261,Kävlinge,1261TB111,Västra Karaby
+12,Skåne,1261,Kävlinge,1261TC107,Kävlinge
+12,Skåne,1262,Lomma,1262TB101,Bjärred
+12,Skåne,1262,Lomma,1262TB102,Flädie
+12,Skåne,1262,Lomma,1262TC103,Lomma
+12,Skåne,1263,Svedala,1263TB101,Bara
+12,Skåne,1263,Svedala,1263TB102,Holmeja
+12,Skåne,1263,Svedala,1263TB103,Klågerup
+12,Skåne,1263,Svedala,1263TC105,Svedala
+12,Skåne,1264,Skurup,1264TB101,Abbekås
+12,Skåne,1264,Skurup,1264TB102,Rydsgård
+12,Skåne,1264,Skurup,1264TB103,Skivarp
+12,Skåne,1264,Skurup,1264TC104,Skurup
+12,Skåne,1265,Sjöbo,1265TB101,Karups sommarby
+12,Skåne,1265,Sjöbo,1265TB102,Bjärsjölagård
+12,Skåne,1265,Sjöbo,1265TB103,Blentarp
+12,Skåne,1265,Sjöbo,1265TB104,Lövestad
+12,Skåne,1265,Sjöbo,1265TB107,Sövde
+12,Skåne,1265,Sjöbo,1265TB108,Vollsjö
+12,Skåne,1265,Sjöbo,1265TB109,Äsperöd
+12,Skåne,1265,Sjöbo,1265TB119,"Humlamaden och Hemmestorps björke, boke och fure"
+12,Skåne,1265,Sjöbo,1265TC105,Sjöbo
+12,Skåne,1266,Hörby,1266TB103,Osbyholm
+12,Skåne,1266,Hörby,1266TB104,Önneköp
+12,Skåne,1266,Hörby,1266TC101,Hörby
+12,Skåne,1267,Höör,1267TB101,Jularp och Sjunnerup
+12,Skåne,1267,Höör,1267TB105,Norra Rörum
+12,Skåne,1267,Höör,1267TB107,Snogeröd
+12,Skåne,1267,Höör,1267TB109,Tjörnarp
+12,Skåne,1267,Höör,1267TC103,Höör
+12,Skåne,1270,Tomelilla,1270TB101,Brösarp
+12,Skåne,1270,Tomelilla,1270TB102,Lunnarp
+12,Skåne,1270,Tomelilla,1270TB103,Onslunda
+12,Skåne,1270,Tomelilla,1270TB104,Skåne-Tranås
+12,Skåne,1270,Tomelilla,1270TB105,Smedstorp
+12,Skåne,1270,Tomelilla,1270TB106,Spjutstorp
+12,Skåne,1270,Tomelilla,1270TC107,Tomelilla
+12,Skåne,1272,Bromölla,1272TB103,Gualöv
+12,Skåne,1272,Bromölla,1272TB104,Nymölla
+12,Skåne,1272,Bromölla,1272TB105,Näsum
+12,Skåne,1272,Bromölla,1272TB106,Valje
+12,Skåne,1272,Bromölla,1272TC101,Bromölla
+12,Skåne,1273,Osby,1273TB102,Killeberg
+12,Skåne,1273,Osby,1273TB103,Lönsboda
+12,Skåne,1273,Osby,1273TC104,Osby
+12,Skåne,1275,Perstorp,1275TC101,Perstorp
+12,Skåne,1276,Klippan,1276TB102,Klippans bruk
+12,Skåne,1276,Klippan,1276TB103,Ljungbyhed
+12,Skåne,1276,Klippan,1276TB105,Östra Ljungby
+12,Skåne,1276,Klippan,1276TC101,Klippan
+12,Skåne,1277,Åstorp,1277TB101,Björnås
+12,Skåne,1277,Åstorp,1277TB102,Hyllinge
+12,Skåne,1277,Åstorp,1277TB103,Kvidinge
+12,Skåne,1277,Åstorp,1277TC104,Åstorp
+12,Skåne,1278,Båstad,1278TB102,Förslöv
+12,Skåne,1278,Båstad,1278TB103,Grevie
+12,Skåne,1278,Båstad,1278TB104,Torekov
+12,Skåne,1278,Båstad,1278TB105,Västra Karup
+12,Skåne,1278,Båstad,1278TB106,Östra Karup
+12,Skåne,1278,Båstad,1278TC101,Båstad
+12,Skåne,1280,Malmö,1280TB101,Bunkeflostrand
+12,Skåne,1280,Malmö,1280TB107,Oxie
+12,Skåne,1280,Malmö,1280TB108,Skumparp
+12,Skåne,1280,Malmö,1280TB111,Tygelsjö
+12,Skåne,1280,Malmö,1280TB112,Vintrie
+12,Skåne,1280,Malmö,1280TC106,Malmö
+12,Skåne,1281,Lund,1281TB101,Dalby
+12,Skåne,1281,Lund,1281TB102,Genarp
+12,Skåne,1281,Lund,1281TB103,Torna Hällestad
+12,Skåne,1281,Lund,1281TB106,Revingeby
+12,Skåne,1281,Lund,1281TB107,Stångby
+12,Skåne,1281,Lund,1281TB108,Södra Sandby
+12,Skåne,1281,Lund,1281TB109,Vallkärra
+12,Skåne,1281,Lund,1281TB110,Veberöd
+12,Skåne,1281,Lund,1281TC105,Lund
+12,Skåne,1282,Landskrona,1282TB101,Tuna
+12,Skåne,1282,Landskrona,1282TB102,Annelöv
+12,Skåne,1282,Landskrona,1282TB103,Asmundtorp
+12,Skåne,1282,Landskrona,1282TB104,Glumslöv
+12,Skåne,1282,Landskrona,1282TB105,Häljarp
+12,Skåne,1282,Landskrona,1282TB106,Härslöv
+12,Skåne,1282,Landskrona,1282TB107,Kvärlöv
+12,Skåne,1282,Landskrona,1282TB109,Saxtorpsskogen
+12,Skåne,1282,Landskrona,1282TC108,Landskrona
+12,Skåne,1283,Helsingborg,1283TB101,Fleninge
+12,Skåne,1283,Helsingborg,1283TB102,Allerum
+12,Skåne,1283,Helsingborg,1283TB104,Domsten
+12,Skåne,1283,Helsingborg,1283TB105,Gantofta
+12,Skåne,1283,Helsingborg,1283TB106,Hasslarp
+12,Skåne,1283,Helsingborg,1283TB108,Hittarp
+12,Skåne,1283,Helsingborg,1283TB109,Kattarp
+12,Skåne,1283,Helsingborg,1283TB110,Mörarp
+12,Skåne,1283,Helsingborg,1283TB111,Påarp
+12,Skåne,1283,Helsingborg,1283TB112,Rydebäck
+12,Skåne,1283,Helsingborg,1283TB113,Tånga och Rögle
+12,Skåne,1283,Helsingborg,1283TB114,Utvälinge
+12,Skåne,1283,Helsingborg,1283TB115,Vallåkra
+12,Skåne,1283,Helsingborg,1283TB116,Ödåkra
+12,Skåne,1283,Helsingborg,1283TC107,Helsingborg
+12,Skåne,1284,Höganäs,1284TB101,Farhult
+12,Skåne,1284,Höganäs,1284TB102,Arild
+12,Skåne,1284,Höganäs,1284TB104,Ingelsträde
+12,Skåne,1284,Höganäs,1284TB105,Jonstorp
+12,Skåne,1284,Höganäs,1284TB107,Mjöhult
+12,Skåne,1284,Höganäs,1284TB108,Mölle
+12,Skåne,1284,Höganäs,1284TB109,Viken
+12,Skåne,1284,Höganäs,1284TC103,Höganäs
+12,Skåne,1285,Eslöv,1285TB101,Billinge
+12,Skåne,1285,Eslöv,1285TB103,Flyinge
+12,Skåne,1285,Eslöv,1285TB104,Gårdstånga
+12,Skåne,1285,Eslöv,1285TB105,Harlösa
+12,Skåne,1285,Eslöv,1285TB106,Hurva
+12,Skåne,1285,Eslöv,1285TB107,Kungshult
+12,Skåne,1285,Eslöv,1285TB108,Löberöd
+12,Skåne,1285,Eslöv,1285TB109,Marieholm
+12,Skåne,1285,Eslöv,1285TB110,Stehag
+12,Skåne,1285,Eslöv,1285TB112,Örtofta
+12,Skåne,1285,Eslöv,1285TB113,Väggarp
+12,Skåne,1285,Eslöv,1285TC102,Eslöv
+12,Skåne,1286,Ystad,1286TB101,Rynge och Vallösa
+12,Skåne,1286,Ystad,1286TB102,Glemmingebro
+12,Skåne,1286,Ystad,1286TB103,Hedeskoga
+12,Skåne,1286,Ystad,1286TB104,Köpingebro
+12,Skåne,1286,Ystad,1286TB105,Löderup
+12,Skåne,1286,Ystad,1286TB106,Nybrostrand
+12,Skåne,1286,Ystad,1286TB107,Stora Herrestad
+12,Skåne,1286,Ystad,1286TB108,Svarte
+12,Skåne,1286,Ystad,1286TB109,Sövestad
+12,Skåne,1286,Ystad,1286TB121,"Trunnerup, Bleckstorp och Rögla*"
+12,Skåne,1286,Ystad,1286TC110,Ystad
+12,Skåne,1287,Trelleborg,1287TB101,Alstad
+12,Skåne,1287,Trelleborg,1287TB102,Anderslöv
+12,Skåne,1287,Trelleborg,1287TB103,Beddingestrand
+12,Skåne,1287,Trelleborg,1287TB105,Klagstorp
+12,Skåne,1287,Trelleborg,1287TB106,Kurland
+12,Skåne,1287,Trelleborg,1287TB108,Skegrie
+12,Skåne,1287,Trelleborg,1287TB109,Smygehamn
+12,Skåne,1287,Trelleborg,1287TB111,Västra Tommarp
+12,Skåne,1287,Trelleborg,1287TC110,Trelleborg
+12,Skåne,1290,Kristianstad,1290TB101,Arkelstorp
+12,Skåne,1290,Kristianstad,1290TB102,Balsby
+12,Skåne,1290,Kristianstad,1290TB103,Bäckaskog
+12,Skåne,1290,Kristianstad,1290TB104,Degeberga
+12,Skåne,1290,Kristianstad,1290TB105,Everöd
+12,Skåne,1290,Kristianstad,1290TB106,Fjälkinge
+12,Skåne,1290,Kristianstad,1290TB107,Färlöv
+12,Skåne,1290,Kristianstad,1290TB108,Gärds Köpinge
+12,Skåne,1290,Kristianstad,1290TB109,Hammar
+12,Skåne,1290,Kristianstad,1290TB111,Huaröd
+12,Skåne,1290,Kristianstad,1290TB113,Linderöd
+12,Skåne,1290,Kristianstad,1290TB115,Nyehusen och Furuboda
+12,Skåne,1290,Kristianstad,1290TB117,Rinkaby
+12,Skåne,1290,Kristianstad,1290TB118,Tollarp
+12,Skåne,1290,Kristianstad,1290TB120,Vanneberga
+12,Skåne,1290,Kristianstad,1290TB121,Viby
+12,Skåne,1290,Kristianstad,1290TB123,Vittskövle
+12,Skåne,1290,Kristianstad,1290TB124,Vånga
+12,Skåne,1290,Kristianstad,1290TB125,Yngsjö
+12,Skåne,1290,Kristianstad,1290TB126,Åhus
+12,Skåne,1290,Kristianstad,1290TB127,Önnestad
+12,Skåne,1290,Kristianstad,1290TB128,Österslöv
+12,Skåne,1290,Kristianstad,1290TB129,Östra Sönnarslöv
+12,Skåne,1290,Kristianstad,1290TB130,Bjärlöv
+12,Skåne,1290,Kristianstad,1290TB168,Skepparslöv
+12,Skåne,1290,Kristianstad,1290TC112,Kristianstad
+12,Skåne,1291,Simrishamn,1291TB101,Baskemölla
+12,Skåne,1291,Simrishamn,1291TB102,Borrby
+12,Skåne,1291,Simrishamn,1291TB103,Brantevik
+12,Skåne,1291,Simrishamn,1291TB104,Gärsnäs
+12,Skåne,1291,Simrishamn,1291TB105,Hammenhög
+12,Skåne,1291,Simrishamn,1291TB106,Kivik
+12,Skåne,1291,Simrishamn,1291TB107,Sankt Olof
+12,Skåne,1291,Simrishamn,1291TB110,Skillinge
+12,Skåne,1291,Simrishamn,1291TB111,Vik
+12,Skåne,1291,Simrishamn,1291TB112,Vitaby
+12,Skåne,1291,Simrishamn,1291TB113,Östra Tommarp
+12,Skåne,1291,Simrishamn,1291TB114,Östra Vemmerlöv
+12,Skåne,1291,Simrishamn,1291TC109,Simrishamn
+12,Skåne,1292,Ängelholm,1292TB101,Hjärnarp
+12,Skåne,1292,Ängelholm,1292TB103,Lerbäckshult och Tullstorp
+12,Skåne,1292,Ängelholm,1292TB104,Margretetorp
+12,Skåne,1292,Ängelholm,1292TB105,Munka-Ljungby
+12,Skåne,1292,Ängelholm,1292TB107,Strövelstorp
+12,Skåne,1292,Ängelholm,1292TB108,Svenstorp
+12,Skåne,1292,Ängelholm,1292TB109,Toarp och Tåstarp
+12,Skåne,1292,Ängelholm,1292TB113,Össjö
+12,Skåne,1292,Ängelholm,1292TC111,Ängelholm
+12,Skåne,1293,Hässleholm,1293TB101,Ballingslöv
+12,Skåne,1293,Hässleholm,1293TB102,Bjärnum
+12,Skåne,1293,Hässleholm,1293TB103,Emmaljunga
+12,Skåne,1293,Hässleholm,1293TB104,Finja
+12,Skåne,1293,Hässleholm,1293TB106,Hästveda
+12,Skåne,1293,Hässleholm,1293TB107,Hörja
+12,Skåne,1293,Hässleholm,1293TB108,Mala
+12,Skåne,1293,Hässleholm,1293TB110,Sjörröd
+12,Skåne,1293,Hässleholm,1293TB111,Stoby
+12,Skåne,1293,Hässleholm,1293TB112,Sösdala
+12,Skåne,1293,Hässleholm,1293TB113,Tormestorp
+12,Skåne,1293,Hässleholm,1293TB114,Tyringe
+12,Skåne,1293,Hässleholm,1293TB115,Vankiva
+12,Skåne,1293,Hässleholm,1293TB116,Vinslöv
+12,Skåne,1293,Hässleholm,1293TB117,Vittsjö
+12,Skåne,1293,Hässleholm,1293TB118,Västra Torup
+12,Skåne,1293,Hässleholm,1293TC105,Hässleholm
+13,Halland,1315,Hylte,1315TB102,Kinnared
+13,Halland,1315,Hylte,1315TB103,Landeryd
+13,Halland,1315,Hylte,1315TB104,Rydöbruk
+13,Halland,1315,Hylte,1315TB105,Torup
+13,Halland,1315,Hylte,1315TB106,Unnaryd
+13,Halland,1315,Hylte,1315TC101,Hyltebruk
+13,Halland,1380,Halmstad,1380TB101,Eldsberga
+13,Halland,1380,Halmstad,1380TB102,Frösakull
+13,Halland,1380,Halmstad,1380TB104,Getinge
+13,Halland,1380,Halmstad,1380TB105,Gullbrandstorp
+13,Halland,1380,Halmstad,1380TB106,Gullbranna
+13,Halland,1380,Halmstad,1380TB108,Harplinge
+13,Halland,1380,Halmstad,1380TB109,Haverdal
+13,Halland,1380,Halmstad,1380TB110,Holm
+13,Halland,1380,Halmstad,1380TB111,Kvibille
+13,Halland,1380,Halmstad,1380TB112,Laxvik
+13,Halland,1380,Halmstad,1380TB113,Oskarström
+13,Halland,1380,Halmstad,1380TB114,Sennan
+13,Halland,1380,Halmstad,1380TB115,Simlångsdalen
+13,Halland,1380,Halmstad,1380TB116,Skedala
+13,Halland,1380,Halmstad,1380TB117,Steninge
+13,Halland,1380,Halmstad,1380TB118,Trönninge
+13,Halland,1380,Halmstad,1380TB120,Villshärad
+13,Halland,1380,Halmstad,1380TB121,Åled
+13,Halland,1380,Halmstad,1380TC107,Halmstad
+13,Halland,1381,Laholm,1381TB101,Genevad
+13,Halland,1381,Laholm,1381TB102,Hasslöv
+13,Halland,1381,Laholm,1381TB103,Hishult
+13,Halland,1381,Laholm,1381TB104,Knäred
+13,Halland,1381,Laholm,1381TB106,Lilla Tjärby
+13,Halland,1381,Laholm,1381TB107,Mellbystrand
+13,Halland,1381,Laholm,1381TB108,Ränneslöv
+13,Halland,1381,Laholm,1381TB109,Skottorp
+13,Halland,1381,Laholm,1381TB111,Vallberga
+13,Halland,1381,Laholm,1381TB112,Veinge
+13,Halland,1381,Laholm,1381TB113,Våxtorp
+13,Halland,1381,Laholm,1381TB114,Ysby
+13,Halland,1381,Laholm,1381TC105,Laholm
+13,Halland,1382,Falkenberg,1382TB101,Bergagård
+13,Halland,1382,Falkenberg,1382TB103,Fegen
+13,Halland,1382,Falkenberg,1382TB104,Glommen
+13,Halland,1382,Falkenberg,1382TB105,Heberg
+13,Halland,1382,Falkenberg,1382TB106,Köinge
+13,Halland,1382,Falkenberg,1382TB107,Långås
+13,Halland,1382,Falkenberg,1382TB108,Långasand och Ugglarp
+13,Halland,1382,Falkenberg,1382TB109,Morup
+13,Halland,1382,Falkenberg,1382TB114,Slöinge
+13,Halland,1382,Falkenberg,1382TB115,Ullared
+13,Halland,1382,Falkenberg,1382TB116,Vessigebro
+13,Halland,1382,Falkenberg,1382TB117,Vinberg
+13,Halland,1382,Falkenberg,1382TB119,Årstad
+13,Halland,1382,Falkenberg,1382TB120,Älvsered
+13,Halland,1382,Falkenberg,1382TB121,Ätran
+13,Halland,1382,Falkenberg,1382TB141,Olofsbo
+13,Halland,1382,Falkenberg,1382TC102,Falkenberg
+13,Halland,1383,Varberg,1383TB101,Bua
+13,Halland,1383,Varberg,1383TB102,Getterön
+13,Halland,1383,Varberg,1383TB103,Himle
+13,Halland,1383,Varberg,1383TB104,Hunnestad
+13,Halland,1383,Varberg,1383TB105,Kungsäter
+13,Halland,1383,Varberg,1383TB106,Nordvära och Källstorp
+13,Halland,1383,Varberg,1383TB108,Rolfstorp
+13,Halland,1383,Varberg,1383TB109,Skällinge
+13,Halland,1383,Varberg,1383TB110,Tofta
+13,Halland,1383,Varberg,1383TB115,Bläshammar och Trönningenäs
+13,Halland,1383,Varberg,1383TB116,Tvååker
+13,Halland,1383,Varberg,1383TB117,Tångaberg
+13,Halland,1383,Varberg,1383TB118,Valinge
+13,Halland,1383,Varberg,1383TB120,Veddige
+13,Halland,1383,Varberg,1383TB121,Väröbacka
+13,Halland,1383,Varberg,1383TB122,Årnäs
+13,Halland,1383,Varberg,1383TB123,Åsby
+13,Halland,1383,Varberg,1383TB149,Moarna
+13,Halland,1383,Varberg,1383TB155,"Ringhals, Skällåkra och Lingome"
+13,Halland,1383,Varberg,1383TC119,Varberg
+13,Halland,1384,Kungsbacka,1384TB101,Röda holme
+13,Halland,1384,Kungsbacka,1384TB105,Buerås
+13,Halland,1384,Kungsbacka,1384TB106,Fjärås kyrkby
+13,Halland,1384,Kungsbacka,1384TB107,Fjärås station
+13,Halland,1384,Kungsbacka,1384TB108,Frillesås
+13,Halland,1384,Kungsbacka,1384TB112,Halla Heberg
+13,Halland,1384,Kungsbacka,1384TB113,Hjälm
+13,Halland,1384,Kungsbacka,1384TB115,Kläppa
+13,Halland,1384,Kungsbacka,1384TB117,Kungsbacka
+13,Halland,1384,Kungsbacka,1384TB119,Onsala
+13,Halland,1384,Kungsbacka,1384TB122,Östra Hanhals och Torkelstorp*
+13,Halland,1384,Kungsbacka,1384TB123,Vallda
+13,Halland,1384,Kungsbacka,1384TB126,Åsa
+13,Halland,1384,Kungsbacka,1384TB127,Västra Hagen
+13,Halland,1384,Kungsbacka,1384TB164,Västra Hanhals*
+14,Västra Götaland,1401,Härryda,1401TB103,Eskilsby och Snugga
+14,Västra Götaland,1401,Härryda,1401TB104,Hällingsjö
+14,Västra Götaland,1401,Härryda,1401TB105,Hindås
+14,Västra Götaland,1401,Härryda,1401TB106,Härryda
+14,Västra Götaland,1401,Härryda,1401TB107,Landvetter
+14,Västra Götaland,1401,Härryda,1401TB109,Nya Långenäs
+14,Västra Götaland,1401,Härryda,1401TB110,Rya
+14,Västra Götaland,1401,Härryda,1401TB111,Rävlanda
+14,Västra Götaland,1401,Härryda,1401TB112,Stora Bugärde
+14,Västra Götaland,1401,Härryda,1401TC108,Mölnlycke
+14,Västra Götaland,1402,Partille,1402TB101,Jonsered
+14,Västra Götaland,1402,Partille,1402TB102,Kåhög
+14,Västra Götaland,1402,Partille,1402TB103,Öjersjö
+14,Västra Götaland,1407,Öckerö,1407TB101,Björkö
+14,Västra Götaland,1407,Öckerö,1407TB102,Fotö
+14,Västra Götaland,1407,Öckerö,1407TB104,Hälsö
+14,Västra Götaland,1407,Öckerö,1407TB105,Hönö
+14,Västra Götaland,1407,Öckerö,1407TB106,Kalvsund
+14,Västra Götaland,1407,Öckerö,1407TB107,Källö-Knippla
+14,Västra Götaland,1407,Öckerö,1407TB108,Rörö
+14,Västra Götaland,1415,Stenungsund,1415TB102,Jörlanda
+14,Västra Götaland,1415,Stenungsund,1415TB105,Stora Höga
+14,Västra Götaland,1415,Stenungsund,1415TB108,Svartehallen
+14,Västra Götaland,1415,Stenungsund,1415TB109,Svenshögen
+14,Västra Götaland,1415,Stenungsund,1415TB110,Ucklum
+14,Västra Götaland,1415,Stenungsund,1415TB111,Spekeröd
+14,Västra Götaland,1415,Stenungsund,1415TB112,Ödsmål
+14,Västra Götaland,1415,Stenungsund,1415TC104,Stenungsund
+14,Västra Götaland,1419,Tjörn,1419TB101,Bleket och Klädesholmen
+14,Västra Götaland,1419,Tjörn,1419TB102,Djupvik och Fagerfjäll
+14,Västra Götaland,1419,Tjörn,1419TB104,Valsäng
+14,Västra Götaland,1419,Tjörn,1419TB105,Kyrkesund
+14,Västra Götaland,1419,Tjörn,1419TB106,Kållekärr
+14,Västra Götaland,1419,Tjörn,1419TB107,Höviksnäs
+14,Västra Götaland,1419,Tjörn,1419TB109,Rönnäng
+14,Västra Götaland,1419,Tjörn,1419TB139,Hjälteby
+14,Västra Götaland,1419,Tjörn,1419TC110,Skärhamn
+14,Västra Götaland,1421,Orust,1421TB101,Ellös
+14,Västra Götaland,1421,Orust,1421TB104,Höggeröd
+14,Västra Götaland,1421,Orust,1421TB105,Mollösund
+14,Västra Götaland,1421,Orust,1421TB106,Svanesund
+14,Västra Götaland,1421,Orust,1421TB108,Varekil
+14,Västra Götaland,1421,Orust,1421TC102,Henån
+14,Västra Götaland,1427,Sotenäs,1427TB101,Bovallstrand
+14,Västra Götaland,1427,Sotenäs,1427TB103,Hunnebostrand
+14,Västra Götaland,1427,Sotenäs,1427TB105,Malmön
+14,Västra Götaland,1427,Sotenäs,1427TC104,"Smögen, Kungshamn och Väjern*"
+14,Västra Götaland,1430,Munkedal,1430TB101,Dingle
+14,Västra Götaland,1430,Munkedal,1430TB102,Hedekas
+14,Västra Götaland,1430,Munkedal,1430TB103,Hällevadsholm
+14,Västra Götaland,1430,Munkedal,1430TB105,Torreby
+14,Västra Götaland,1430,Munkedal,1430TC104,Munkedal
+14,Västra Götaland,1435,Tanum,1435TB101,Fjällbacka
+14,Västra Götaland,1435,Tanum,1435TB102,Grebbestad
+14,Västra Götaland,1435,Tanum,1435TB103,Hamburgsund
+14,Västra Götaland,1435,Tanum,1435TB104,Rabbalshede
+14,Västra Götaland,1435,Tanum,1435TB124,Östad
+14,Västra Götaland,1435,Tanum,1435TC105,Tanumshede
+14,Västra Götaland,1438,Dals-Ed,1438TC101,Ed
+14,Västra Götaland,1439,Färgelanda,1439TB102,Högsäter
+14,Västra Götaland,1439,Färgelanda,1439TB103,Stigen
+14,Västra Götaland,1439,Färgelanda,1439TB104,Ödeborg
+14,Västra Götaland,1439,Färgelanda,1439TC101,Färgelanda
+14,Västra Götaland,1440,Ale,1440TB101,Alvhem
+14,Västra Götaland,1440,Ale,1440TB104,Skepplanda
+14,Västra Götaland,1440,Ale,1440TB105,Surte
+14,Västra Götaland,1440,Ale,1440TB106,Älvängen
+14,Västra Götaland,1440,Ale,1440TC102,Nödinge-Nol
+14,Västra Götaland,1441,Lerum,1441TB102,Slätthult
+14,Västra Götaland,1441,Lerum,1441TB103,Björboholm
+14,Västra Götaland,1441,Lerum,1441TB105,Gråbo
+14,Västra Götaland,1441,Lerum,1441TB108,Sjövik
+14,Västra Götaland,1441,Lerum,1441TB109,Tollered
+14,Västra Götaland,1441,Lerum,1441TB110,Öxeryd
+14,Västra Götaland,1441,Lerum,1441TB112,Ytterstad
+14,Västra Götaland,1441,Lerum,1441TB130,Sandkullen och Sågarehagen
+14,Västra Götaland,1441,Lerum,1441TC106,Lerum
+14,Västra Götaland,1442,Vårgårda,1442TB101,Horla
+14,Västra Götaland,1442,Vårgårda,1442TB103,Östadkulle
+14,Västra Götaland,1442,Vårgårda,1442TC102,Vårgårda
+14,Västra Götaland,1443,Bollebygd,1443TB102,Hultafors
+14,Västra Götaland,1443,Bollebygd,1443TB103,Olsfors
+14,Västra Götaland,1443,Bollebygd,1443TB104,Töllsjö
+14,Västra Götaland,1443,Bollebygd,1443TB111,"Dammkullen, Fjällastorp och Stenaskjum"
+14,Västra Götaland,1443,Bollebygd,1443TC101,Bollebygd
+14,Västra Götaland,1444,Grästorp,1444TC101,Grästorp
+14,Västra Götaland,1445,Essunga,1445TB101,Främmestad
+14,Västra Götaland,1445,Essunga,1445TB102,Jonslund
+14,Västra Götaland,1445,Essunga,1445TC103,Nossebro
+14,Västra Götaland,1446,Karlsborg,1446TB101,Forsvik
+14,Västra Götaland,1446,Karlsborg,1446TB103,Mölltorp
+14,Västra Götaland,1446,Karlsborg,1446TB104,Undenäs
+14,Västra Götaland,1446,Karlsborg,1446TC102,Karlsborg
+14,Västra Götaland,1447,Gullspång,1447TB103,Otterbäcken
+14,Västra Götaland,1447,Gullspång,1447TC101,Gullspång
+14,Västra Götaland,1447,Gullspång,1447TC102,Hova
+14,Västra Götaland,1452,Tranemo,1452TB101,Ambjörnarp
+14,Västra Götaland,1452,Tranemo,1452TB102,Dalstorp
+14,Västra Götaland,1452,Tranemo,1452TB103,Grimsås
+14,Västra Götaland,1452,Tranemo,1452TB104,Limmared
+14,Västra Götaland,1452,Tranemo,1452TB105,Ljungsarp
+14,Västra Götaland,1452,Tranemo,1452TB106,Länghem
+14,Västra Götaland,1452,Tranemo,1452TB107,Rosenlund
+14,Västra Götaland,1452,Tranemo,1452TB110,Uddebo
+14,Västra Götaland,1452,Tranemo,1452TB113,Nittorp
+14,Västra Götaland,1452,Tranemo,1452TC109,Tranemo
+14,Västra Götaland,1460,Bengtsfors,1460TB102,Billingsfors
+14,Västra Götaland,1460,Bengtsfors,1460TB103,Bäckefors
+14,Västra Götaland,1460,Bengtsfors,1460TB104,Dals Långed
+14,Västra Götaland,1460,Bengtsfors,1460TB105,Skåpafors
+14,Västra Götaland,1460,Bengtsfors,1460TC101,Bengtsfors
+14,Västra Götaland,1461,Mellerud,1461TB102,Dals Rostock
+14,Västra Götaland,1461,Mellerud,1461TB104,Åsensbruk
+14,Västra Götaland,1461,Mellerud,1461TC103,Mellerud
+14,Västra Götaland,1462,Lilla Edet,1462TB101,Lilla Edet västra
+14,Västra Götaland,1462,Lilla Edet,1462TB102,Göta
+14,Västra Götaland,1462,Lilla Edet,1462TB103,Hjärtum
+14,Västra Götaland,1462,Lilla Edet,1462TB105,Lödöse
+14,Västra Götaland,1462,Lilla Edet,1462TB106,Nygård
+14,Västra Götaland,1462,Lilla Edet,1462TB113,"Groröd, Svenseröd, Torskog och Källeröd"
+14,Västra Götaland,1462,Lilla Edet,1462TC104,Lilla Edet
+14,Västra Götaland,1463,Mark,1463TB101,Ubbhult norra
+14,Västra Götaland,1463,Mark,1463TB102,Berghem
+14,Västra Götaland,1463,Mark,1463TB103,Björketorp
+14,Västra Götaland,1463,Mark,1463TB104,Fritsla
+14,Västra Götaland,1463,Mark,1463TB105,Horred
+14,Västra Götaland,1463,Mark,1463TB106,Hyssna
+14,Västra Götaland,1463,Mark,1463TB108,Rydal
+14,Västra Götaland,1463,Mark,1463TB109,Sätila
+14,Västra Götaland,1463,Mark,1463TB110,Torestorp
+14,Västra Götaland,1463,Mark,1463TB111,Öxabäck
+14,Västra Götaland,1463,Mark,1463TB133,Fotskäl
+14,Västra Götaland,1463,Mark,1463TB137,Flygsnäs och Hägnen
+14,Västra Götaland,1463,Mark,1463TC107,Kinna
+14,Västra Götaland,1465,Svenljunga,1465TB101,Hillared
+14,Västra Götaland,1465,Svenljunga,1465TB102,Holsljunga
+14,Västra Götaland,1465,Svenljunga,1465TB103,Mjöbäck
+14,Västra Götaland,1465,Svenljunga,1465TB105,Sexdrega
+14,Västra Götaland,1465,Svenljunga,1465TB107,Östra Frölunda
+14,Västra Götaland,1465,Svenljunga,1465TB108,Överlida
+14,Västra Götaland,1465,Svenljunga,1465TB114,Sandsjön och Sågbacken*
+14,Västra Götaland,1465,Svenljunga,1465TC106,Svenljunga
+14,Västra Götaland,1466,Herrljunga,1466TB101,Ljung och Annelund
+14,Västra Götaland,1466,Herrljunga,1466TC103,Herrljunga
+14,Västra Götaland,1470,Vara,1470TB101,Arentorp
+14,Västra Götaland,1470,Vara,1470TB102,Emtunga
+14,Västra Götaland,1470,Vara,1470TB104,Jung
+14,Västra Götaland,1470,Vara,1470TB105,Kvänum
+14,Västra Götaland,1470,Vara,1470TB106,Larv
+14,Västra Götaland,1470,Vara,1470TB107,Stora Levene
+14,Västra Götaland,1470,Vara,1470TB108,Tråvad
+14,Västra Götaland,1470,Vara,1470TB110,Vedum
+14,Västra Götaland,1470,Vara,1470TC109,Vara
+14,Västra Götaland,1471,Götene,1471TB103,Hällekis
+14,Västra Götaland,1471,Götene,1471TB104,Källby
+14,Västra Götaland,1471,Götene,1471TB105,Lundsbrunn
+14,Västra Götaland,1471,Götene,1471TC102,Götene
+14,Västra Götaland,1472,Tibro,1472TB101,Fagersanna
+14,Västra Götaland,1472,Tibro,1472TB104,Bråbacka*
+14,Västra Götaland,1472,Tibro,1472TC102,Tibro
+14,Västra Götaland,1473,Töreboda,1473TB101,Moholm
+14,Västra Götaland,1473,Töreboda,1473TB103,Älgarås
+14,Västra Götaland,1473,Töreboda,1473TC102,Töreboda
+14,Västra Götaland,1480,Göteborg,1480TB101,Angered
+14,Västra Götaland,1480,Göteborg,1480TB102,Asperö
+14,Västra Götaland,1480,Göteborg,1480TB103,Björlanda*
+14,Västra Götaland,1480,Göteborg,1480TB104,Brännö
+14,Västra Götaland,1480,Göteborg,1480TB107,Nordöstra Göteborg
+14,Västra Götaland,1480,Göteborg,1480TB112,Låssby
+14,Västra Götaland,1480,Göteborg,1480TB113,Tumlehed
+14,Västra Götaland,1480,Göteborg,1480TB115,Nolvik
+14,Västra Götaland,1480,Göteborg,1480TB116,Torslanda
+14,Västra Götaland,1480,Göteborg,1480TB117,Olofstorp
+14,Västra Götaland,1480,Göteborg,1480TB120,Stenared
+14,Västra Götaland,1480,Göteborg,1480TB121,Styrsö och Donsö
+14,Västra Götaland,1480,Göteborg,1480TB122,Säve
+14,Västra Götaland,1480,Göteborg,1480TB123,Vrångö
+14,Västra Götaland,1480,Göteborg,1480TB164,Assmundtorp och Skändla
+14,Västra Götaland,1480,Göteborg,1480TC108,Göteborg
+14,Västra Götaland,1481,Mölndal,1481TB101,Hällesåker
+14,Västra Götaland,1481,Mölndal,1481TB122,Björnåsen
+14,Västra Götaland,1481,Mölndal,1481TB123,Västra Balltorp*
+14,Västra Götaland,1482,Kungälv,1482TB101,Diseröd
+14,Västra Götaland,1482,Kungälv,1482TB102,Kyrkeby och Nereby
+14,Västra Götaland,1482,Kungälv,1482TB104,Kode
+14,Västra Götaland,1482,Kungälv,1482TB105,Kovikshamn och Åkerhög
+14,Västra Götaland,1482,Kungälv,1482TB107,Kareby och Ringby
+14,Västra Götaland,1482,Kungälv,1482TB108,Kärna
+14,Västra Götaland,1482,Kungälv,1482TB109,Lundby och Rogstorp
+14,Västra Götaland,1482,Kungälv,1482TB110,Marstrand
+14,Västra Götaland,1482,Kungälv,1482TB111,Arvidsvik
+14,Västra Götaland,1482,Kungälv,1482TB112,Risby
+14,Västra Götaland,1482,Kungälv,1482TB113,Signehög och Norrmannebo
+14,Västra Götaland,1482,Kungälv,1482TB114,Duvesjön
+14,Västra Götaland,1482,Kungälv,1482TB115,Tjuvkil
+14,Västra Götaland,1482,Kungälv,1482TB117,Ödsmål och Åsebyberg
+14,Västra Götaland,1482,Kungälv,1482TB118,Rörtången och Ödsmåls mosse
+14,Västra Götaland,1482,Kungälv,1482TB119,Aröd och Timmervik
+14,Västra Götaland,1482,Kungälv,1482TB123,Lycke och Bremnäs*
+14,Västra Götaland,1482,Kungälv,1482TB133,Hålta och Vävra*
+14,Västra Götaland,1482,Kungälv,1482TC106,Kungälv
+14,Västra Götaland,1484,Lysekil,1484TB101,Brastad
+14,Västra Götaland,1484,Lysekil,1484TB103,Fiskebäckskil
+14,Västra Götaland,1484,Lysekil,1484TB104,Grundsund
+14,Västra Götaland,1484,Lysekil,1484TB116,Rixö och Ryk
+14,Västra Götaland,1484,Lysekil,1484TC105,Lysekil
+14,Västra Götaland,1485,Uddevalla,1485TB101,Ammenäs
+14,Västra Götaland,1485,Uddevalla,1485TB102,Fagerhult
+14,Västra Götaland,1485,Uddevalla,1485TB104,Hogstorp
+14,Västra Götaland,1485,Uddevalla,1485TB105,Kurveröd
+14,Västra Götaland,1485,Uddevalla,1485TB106,Lanesund och Överby
+14,Västra Götaland,1485,Uddevalla,1485TB107,Ljungskile
+14,Västra Götaland,1485,Uddevalla,1485TB108,"Strandskogen, Restenäs och Ulvesund"
+14,Västra Götaland,1485,Uddevalla,1485TB109,Smedseröd
+14,Västra Götaland,1485,Uddevalla,1485TB112,Sjöskogen och Strand
+14,Västra Götaland,1485,Uddevalla,1485TB113,Kristevik och Sundsandvik
+14,Västra Götaland,1485,Uddevalla,1485TB114,Utby
+14,Västra Götaland,1485,Uddevalla,1485TB115,Sundsstrand
+14,Västra Götaland,1485,Uddevalla,1485TB118,Ljungs Berg*
+14,Västra Götaland,1485,Uddevalla,1485TC111,Uddevalla
+14,Västra Götaland,1486,Strömstad,1486TB101,Kebal
+14,Västra Götaland,1486,Strömstad,1486TB102,Skee
+14,Västra Götaland,1486,Strömstad,1486TB115,Rossö
+14,Västra Götaland,1486,Strömstad,1486TC103,Strömstad
+14,Västra Götaland,1487,Vänersborg,1487TB102,Brålanda
+14,Västra Götaland,1487,Vänersborg,1487TB103,Frändefors
+14,Västra Götaland,1487,Vänersborg,1487TB104,Nordkroken
+14,Västra Götaland,1487,Vänersborg,1487TB105,Vargön
+14,Västra Götaland,1487,Vänersborg,1487TC106,Vänersborg
+14,Västra Götaland,1488,Trollhättan,1488TB102,Sjuntorp
+14,Västra Götaland,1488,Trollhättan,1488TB103,Velanda
+14,Västra Götaland,1488,Trollhättan,1488TB106,Upphärad
+14,Västra Götaland,1488,Trollhättan,1488TB107,Väne-Åsaka
+14,Västra Götaland,1488,Trollhättan,1488TC105,Trollhättan
+14,Västra Götaland,1489,Alingsås,1489TB102,Långared
+14,Västra Götaland,1489,Alingsås,1489TB103,Magra
+14,Västra Götaland,1489,Alingsås,1489TB104,Hästeryd och Ryd
+14,Västra Götaland,1489,Alingsås,1489TB105,Färgens östra strand
+14,Västra Götaland,1489,Alingsås,1489TB107,Gräfsnäs
+14,Västra Götaland,1489,Alingsås,1489TB108,Hjälmared
+14,Västra Götaland,1489,Alingsås,1489TB109,Ingared
+14,Västra Götaland,1489,Alingsås,1489TB111,Sollebrunn
+14,Västra Götaland,1489,Alingsås,1489TB112,Stora Mellby
+14,Västra Götaland,1489,Alingsås,1489TB113,Västerbodarna
+14,Västra Götaland,1489,Alingsås,1489TC106,Alingsås
+14,Västra Götaland,1490,Borås,1490TB101,Bosnäs
+14,Västra Götaland,1490,Borås,1490TB102,Aplared
+14,Västra Götaland,1490,Borås,1490TB103,Borgstena
+14,Västra Götaland,1490,Borås,1490TB105,Bredared
+14,Västra Götaland,1490,Borås,1490TB106,Dalsjöfors
+14,Västra Götaland,1490,Borås,1490TB107,Dannike
+14,Västra Götaland,1490,Borås,1490TB108,Fristad
+14,Västra Götaland,1490,Borås,1490TB109,Frufällan
+14,Västra Götaland,1490,Borås,1490TB110,Gånghester och Målsryd
+14,Västra Götaland,1490,Borås,1490TB111,Hedared
+14,Västra Götaland,1490,Borås,1490TB112,Kinnarumma
+14,Västra Götaland,1490,Borås,1490TB114,Rydboholm
+14,Västra Götaland,1490,Borås,1490TB115,Rångedala
+14,Västra Götaland,1490,Borås,1490TB116,Sjömarken och Viared*
+14,Västra Götaland,1490,Borås,1490TB117,Sandhult
+14,Västra Götaland,1490,Borås,1490TB120,Viskafors
+14,Västra Götaland,1490,Borås,1490TB121,Äspered
+14,Västra Götaland,1490,Borås,1490TB135,Funningen
+14,Västra Götaland,1490,Borås,1490TB158,Sandared
+14,Västra Götaland,1490,Borås,1490TC104,Borås
+14,Västra Götaland,1491,Ulricehamn,1491TB101,Blidsberg
+14,Västra Götaland,1491,Ulricehamn,1491TB102,Dalum
+14,Västra Götaland,1491,Ulricehamn,1491TB103,Gällstad
+14,Västra Götaland,1491,Ulricehamn,1491TB104,Hulu
+14,Västra Götaland,1491,Ulricehamn,1491TB105,Hökerum
+14,Västra Götaland,1491,Ulricehamn,1491TB106,Marbäck
+14,Västra Götaland,1491,Ulricehamn,1491TB107,Nitta
+14,Västra Götaland,1491,Ulricehamn,1491TB108,Rånnaväg
+14,Västra Götaland,1491,Ulricehamn,1491TB109,Timmele
+14,Västra Götaland,1491,Ulricehamn,1491TB110,Trädet
+14,Västra Götaland,1491,Ulricehamn,1491TB112,Vegby
+14,Västra Götaland,1491,Ulricehamn,1491TC111,Ulricehamn
+14,Västra Götaland,1492,Åmål,1492TB101,Fengersfors
+14,Västra Götaland,1492,Åmål,1492TB102,Tösse
+14,Västra Götaland,1492,Åmål,1492TC103,Åmål
+14,Västra Götaland,1493,Mariestad,1493TB101,Lugnås
+14,Västra Götaland,1493,Mariestad,1493TB102,Lyrestad
+14,Västra Götaland,1493,Mariestad,1493TB104,Sjötorp
+14,Västra Götaland,1493,Mariestad,1493TB105,Ullervad
+14,Västra Götaland,1493,Mariestad,1493TC103,Mariestad
+14,Västra Götaland,1494,Lidköping,1494TB101,Lidköping norra
+14,Västra Götaland,1494,Lidköping,1494TB102,Filsbäck
+14,Västra Götaland,1494,Lidköping,1494TB103,Järpås
+14,Västra Götaland,1494,Lidköping,1494TB106,Saleby
+14,Västra Götaland,1494,Lidköping,1494TB109,Vinninga
+14,Västra Götaland,1494,Lidköping,1494TB110,Örslösa
+14,Västra Götaland,1494,Lidköping,1494TB127,Mellby
+14,Västra Götaland,1494,Lidköping,1494TC104,Lidköping
+14,Västra Götaland,1495,Skara,1495TB101,Ardala
+14,Västra Götaland,1495,Skara,1495TB102,Axvall
+14,Västra Götaland,1495,Skara,1495TB103,Eggby
+14,Västra Götaland,1495,Skara,1495TB105,Varnhem
+14,Västra Götaland,1495,Skara,1495TC104,Skara
+14,Västra Götaland,1496,Skövde,1496TB101,Igelstorp
+14,Västra Götaland,1496,Skövde,1496TB102,Lerdala
+14,Västra Götaland,1496,Skövde,1496TB103,Skultorp
+14,Västra Götaland,1496,Skövde,1496TB105,Stöpen
+14,Västra Götaland,1496,Skövde,1496TB106,Tidan
+14,Västra Götaland,1496,Skövde,1496TB107,Timmersdala
+14,Västra Götaland,1496,Skövde,1496TB108,Ulvåker
+14,Västra Götaland,1496,Skövde,1496TB109,Väring
+14,Västra Götaland,1496,Skövde,1496TB110,Värsås
+14,Västra Götaland,1496,Skövde,1496TC104,Skövde
+14,Västra Götaland,1497,Hjo,1497TB103,Korsberga
+14,Västra Götaland,1497,Hjo,1497TC102,Hjo
+14,Västra Götaland,1498,Tidaholm,1498TB101,Ekedalen
+14,Västra Götaland,1498,Tidaholm,1498TB103,Madängsholm
+14,Västra Götaland,1498,Tidaholm,1498TC104,Tidaholm
+14,Västra Götaland,1499,Falköping,1499TB102,Floby
+14,Västra Götaland,1499,Falköping,1499TB103,Gudhem
+14,Västra Götaland,1499,Falköping,1499TB104,Kinnarp
+14,Västra Götaland,1499,Falköping,1499TB105,Kättilstorp
+14,Västra Götaland,1499,Falköping,1499TB106,Odensberg
+14,Västra Götaland,1499,Falköping,1499TB107,Stenstorp
+14,Västra Götaland,1499,Falköping,1499TB108,Torbjörntorp
+14,Västra Götaland,1499,Falköping,1499TB109,Vartofta
+14,Västra Götaland,1499,Falköping,1499TB110,Åsarp
+14,Västra Götaland,1499,Falköping,1499TC101,Falköping
+17,Värmland,1715,Kil,1715TB101,Fagerås
+17,Värmland,1715,Kil,1715TB103,Högboda
+17,Värmland,1715,Kil,1715TB104,Östra Stenåsen
+17,Värmland,1715,Kil,1715TC102,Kil
+17,Värmland,1730,Eda,1730TB102,Eda Glasbruk
+17,Värmland,1730,Eda,1730TB103,Koppom
+17,Värmland,1730,Eda,1730TB104,Åmotfors
+17,Värmland,1730,Eda,1730TC101,Charlottenberg
+17,Värmland,1737,Torsby,1737TB104,Oleby
+17,Värmland,1737,Torsby,1737TB105,Stöllet
+17,Värmland,1737,Torsby,1737TB106,Sysslebäck
+17,Värmland,1737,Torsby,1737TC107,Torsby
+17,Värmland,1760,Storfors,1760TB101,Kyrksten
+17,Värmland,1760,Storfors,1760TC102,Storfors
+17,Värmland,1761,Hammarö,1761TB101,Rud
+17,Värmland,1761,Hammarö,1761TB103,Tye
+17,Värmland,1761,Hammarö,1761TB104,Vidöåsen
+17,Värmland,1761,Hammarö,1761TC102,Skoghall
+17,Värmland,1762,Munkfors,1762TC101,Munkfors
+17,Värmland,1763,Forshaga,1763TB101,Deje
+17,Värmland,1763,Forshaga,1763TB102,Dyvelsten
+17,Värmland,1763,Forshaga,1763TC103,Forshaga
+17,Värmland,1764,Grums,1764TB103,Segmon
+17,Värmland,1764,Grums,1764TB104,Slottsbron
+17,Värmland,1764,Grums,1764TC102,Grums
+17,Värmland,1765,Årjäng,1765TB102,Töcksfors
+17,Värmland,1765,Årjäng,1765TC103,Årjäng
+17,Värmland,1766,Sunne,1766TB101,Lysvik
+17,Värmland,1766,Sunne,1766TB102,Rottneros
+17,Värmland,1766,Sunne,1766TB104,Uddheden
+17,Värmland,1766,Sunne,1766TB105,Västra Ämtervik
+17,Värmland,1766,Sunne,1766TC103,Sunne
+17,Värmland,1780,Karlstad,1780TB101,Alster
+17,Värmland,1780,Karlstad,1780TB104,Edsvalla
+17,Värmland,1780,Karlstad,1780TB105,Edsvalla Övre bruket
+17,Värmland,1780,Karlstad,1780TB107,Molkom
+17,Värmland,1780,Karlstad,1780TB108,Norsbron
+17,Värmland,1780,Karlstad,1780TB109,Älvåker och Råtorp
+17,Värmland,1780,Karlstad,1780TB110,Skattkärr
+17,Värmland,1780,Karlstad,1780TB111,Skåre
+17,Värmland,1780,Karlstad,1780TB112,Vallargärdet
+17,Värmland,1780,Karlstad,1780TB113,Vålberg
+17,Värmland,1780,Karlstad,1780TB114,Väse
+17,Värmland,1780,Karlstad,1780TC106,Karlstad
+17,Värmland,1781,Kristinehamn,1781TB101,Björneborg
+17,Värmland,1781,Kristinehamn,1781TB102,Bäckhammar
+17,Värmland,1781,Kristinehamn,1781TB105,Ölme
+17,Värmland,1781,Kristinehamn,1781TC103,Kristinehamn
+17,Värmland,1782,Filipstad,1782TB102,Lesjöfors
+17,Värmland,1782,Filipstad,1782TB104,Nykroppa
+17,Värmland,1782,Filipstad,1782TB105,Persberg
+17,Värmland,1782,Filipstad,1782TC101,Filipstad
+17,Värmland,1783,Hagfors,1783TB101,Bergsäng
+17,Värmland,1783,Hagfors,1783TB103,Geijersholm
+17,Värmland,1783,Hagfors,1783TB105,Ekshärad
+17,Värmland,1783,Hagfors,1783TB107,Råda
+17,Värmland,1783,Hagfors,1783TB108,Sunnemo
+17,Värmland,1783,Hagfors,1783TB109,Uddeholm
+17,Värmland,1783,Hagfors,1783TC104,Hagfors
+17,Värmland,1784,Arvika,1784TB102,Edane
+17,Värmland,1784,Arvika,1784TB104,Gunnarskog
+17,Värmland,1784,Arvika,1784TB105,Jössefors
+17,Värmland,1784,Arvika,1784TB106,Klässbol
+17,Värmland,1784,Arvika,1784TB108,Sulvik
+17,Värmland,1784,Arvika,1784TC101,Arvika
+17,Värmland,1785,Säffle,1785TB102,Svanskog
+17,Värmland,1785,Säffle,1785TB104,Värmlandsbro
+17,Värmland,1785,Säffle,1785TC103,Säffle
+18,Örebro,1814,Lekeberg,1814TB102,Gropen
+18,Örebro,1814,Lekeberg,1814TB104,Mullhyttan
+18,Örebro,1814,Lekeberg,1814TB105,Vintrosa
+18,Örebro,1814,Lekeberg,1814TC101,Fjugesta
+18,Örebro,1860,Laxå,1860TB101,Finnerödja
+18,Örebro,1860,Laxå,1860TB102,Hasselfors
+18,Örebro,1860,Laxå,1860TC103,Laxå
+18,Örebro,1861,Hallsberg,1861TB102,Hjortkvarn
+18,Örebro,1861,Hallsberg,1861TB103,Pålsboda
+18,Örebro,1861,Hallsberg,1861TB104,Sköllersta
+18,Örebro,1861,Hallsberg,1861TB105,Vretstorp
+18,Örebro,1861,Hallsberg,1861TB106,Östansjö
+18,Örebro,1861,Hallsberg,1861TC101,Hallsberg
+18,Örebro,1862,Degerfors,1862TB102,Svartå
+18,Örebro,1862,Degerfors,1862TC101,Degerfors
+18,Örebro,1863,Hällefors,1863TB101,Grythyttan
+18,Örebro,1863,Hällefors,1863TC103,Hällefors
+18,Örebro,1864,Ljusnarsberg,1864TB104,Ställdalen
+18,Örebro,1864,Ljusnarsberg,1864TC102,Kopparberg
+18,Örebro,1880,Örebro,1880TB101,Askersby
+18,Örebro,1880,Örebro,1880TB103,Ervalla
+18,Örebro,1880,Örebro,1880TB104,Ekeby-Almby
+18,Örebro,1880,Örebro,1880TB105,Garphyttan
+18,Örebro,1880,Örebro,1880TB106,Glanshammar
+18,Örebro,1880,Örebro,1880TB107,Hampetorp
+18,Örebro,1880,Örebro,1880TB108,Hovsta
+18,Örebro,1880,Örebro,1880TB109,Kilsmo
+18,Örebro,1880,Örebro,1880TB110,Latorpsbruk
+18,Örebro,1880,Örebro,1880TB112,Norra Bro
+18,Örebro,1880,Örebro,1880TB114,Odensbacken
+18,Örebro,1880,Örebro,1880TB115,Stora Mellösa
+18,Örebro,1880,Örebro,1880TB116,Ölmbrotorp
+18,Örebro,1880,Örebro,1880TB133,Sjöboviken
+18,Örebro,1880,Örebro,1880TC117,Örebro
+18,Örebro,1881,Kumla,1881TB101,Ekeby
+18,Örebro,1881,Kumla,1881TB106,Åbytorp
+18,Örebro,1881,Kumla,1881TC103,Kumla
+18,Örebro,1882,Askersund,1882TB102,Hammar
+18,Örebro,1882,Askersund,1882TB103,Olshammar
+18,Örebro,1882,Askersund,1882TB105,Sänna
+18,Örebro,1882,Askersund,1882TB106,Zinkgruvan
+18,Örebro,1882,Askersund,1882TB107,Åmmeberg
+18,Örebro,1882,Askersund,1882TB108,Åsbro
+18,Örebro,1882,Askersund,1882TC101,Askersund
+18,Örebro,1883,Karlskoga,1883TB102,Valåsen och Labbsand
+18,Örebro,1883,Karlskoga,1883TC101,Karlskoga
+18,Örebro,1884,Nora,1884TB101,Gyttorp
+18,Örebro,1884,Nora,1884TB104,Striberg
+18,Örebro,1884,Nora,1884TB105,Ås
+18,Örebro,1884,Nora,1884TC102,Nora
+18,Örebro,1885,Lindesberg,1885TB101,Fellingsbro
+18,Örebro,1885,Lindesberg,1885TB102,Frövi
+18,Örebro,1885,Lindesberg,1885TB103,Gusselby
+18,Örebro,1885,Lindesberg,1885TB105,Ramsberg
+18,Örebro,1885,Lindesberg,1885TB106,Rockhammar
+18,Örebro,1885,Lindesberg,1885TB107,Storå
+18,Örebro,1885,Lindesberg,1885TB108,Stråssa
+18,Örebro,1885,Lindesberg,1885TB109,Vedevåg
+18,Örebro,1885,Lindesberg,1885TC104,Lindesberg
+19,Västmanland,1904,Skinnskatteberg,1904TB101,Riddarhyttan
+19,Västmanland,1904,Skinnskatteberg,1904TC102,Skinnskatteberg
+19,Västmanland,1907,Surahammar,1907TB101,Ramnäs
+19,Västmanland,1907,Surahammar,1907TB103,Virsbo
+19,Västmanland,1907,Surahammar,1907TC102,Surahammar
+19,Västmanland,1960,Kungsör,1960TB102,Valskog
+19,Västmanland,1960,Kungsör,1960TC101,Kungsör
+19,Västmanland,1961,Hallstahammar,1961TB102,Kolbäck
+19,Västmanland,1961,Hallstahammar,1961TB103,Strömsholm
+19,Västmanland,1961,Hallstahammar,1961TB104,Sörstafors
+19,Västmanland,1961,Hallstahammar,1961TB110,Södra Hallstahammar
+19,Västmanland,1961,Hallstahammar,1961TB111,Västra Hallstahammar
+19,Västmanland,1961,Hallstahammar,1961TC101,Hallstahammar
+19,Västmanland,1962,Norberg,1962TC101,Norberg
+19,Västmanland,1980,Västerås,1980TB101,Kvicksund
+19,Västmanland,1980,Västerås,1980TB102,Barkarö
+19,Västmanland,1980,Västerås,1980TB103,Dingtuna
+19,Västmanland,1980,Västerås,1980TB104,Enhagen-Ekbacken
+19,Västmanland,1980,Västerås,1980TB106,Harkie
+19,Västmanland,1980,Västerås,1980TB107,Lycksta
+19,Västmanland,1980,Västerås,1980TB108,Kärsta och Bredsdal
+19,Västmanland,1980,Västerås,1980TB109,Malmen
+19,Västmanland,1980,Västerås,1980TB110,Munga
+19,Västmanland,1980,Västerås,1980TB111,Skultuna
+19,Västmanland,1980,Västerås,1980TB112,Tidö-Lindö
+19,Västmanland,1980,Västerås,1980TB113,Tillberga
+19,Västmanland,1980,Västerås,1980TB114,Tortuna
+19,Västmanland,1980,Västerås,1980TB115,Irsta
+19,Västmanland,1980,Västerås,1980TB117,Örtagården
+19,Västmanland,1980,Västerås,1980TB120,Hustahöjden
+19,Västmanland,1980,Västerås,1980TC116,Västerås
+19,Västmanland,1981,Sala,1981TB102,Möklinta
+19,Västmanland,1981,Sala,1981TB103,Ransta
+19,Västmanland,1981,Sala,1981TB105,Salbohed
+19,Västmanland,1981,Sala,1981TB106,Sätra Brunn
+19,Västmanland,1981,Sala,1981TB107,Västerfärnebo
+19,Västmanland,1981,Sala,1981TC104,Sala
+19,Västmanland,1982,Fagersta,1982TC101,Fagersta
+19,Västmanland,1983,Köping,1983TB101,Kolsva
+19,Västmanland,1983,Köping,1983TB103,Munktorp
+19,Västmanland,1983,Köping,1983TC102,Köping
+19,Västmanland,1984,Arboga,1984TB102,Götlunda
+19,Västmanland,1984,Arboga,1984TB103,Medåker
+19,Västmanland,1984,Arboga,1984TC101,Arboga
+20,Dalarna,2021,Vansbro,2021TB101,Järna
+20,Dalarna,2021,Vansbro,2021TB103,Heden och Skansbacken
+20,Dalarna,2021,Vansbro,2021TB104,Skålö
+20,Dalarna,2021,Vansbro,2021TB106,Äppelbo
+20,Dalarna,2021,Vansbro,2021TC105,Vansbro
+20,Dalarna,2023,Malung-Sälen,2023TB101,Lima
+20,Dalarna,2023,Malung-Sälen,2023TB102,Limedsforsen
+20,Dalarna,2023,Malung-Sälen,2023TB104,Malungsfors
+20,Dalarna,2023,Malung-Sälen,2023TB105,Sälen
+20,Dalarna,2023,Malung-Sälen,2023TB106,Transtrand
+20,Dalarna,2023,Malung-Sälen,2023TC103,Malung
+20,Dalarna,2026,Gagnef,2026TB101,Björbo
+20,Dalarna,2026,Gagnef,2026TB102,Bäsna
+20,Dalarna,2026,Gagnef,2026TB103,Floda / Dala-Floda
+20,Dalarna,2026,Gagnef,2026TB105,Djurås
+20,Dalarna,2026,Gagnef,2026TB107,Mockfjärd
+20,Dalarna,2026,Gagnef,2026TB108,Sifferbo
+20,Dalarna,2026,Gagnef,2026TC106,Gagnef
+20,Dalarna,2029,Leksand,2029TB101,Alvik
+20,Dalarna,2029,Leksand,2029TB102,Djura
+20,Dalarna,2029,Leksand,2029TB103,Hjortnäs och Sunnanäng
+20,Dalarna,2029,Leksand,2029TB104,Häradsbygden
+20,Dalarna,2029,Leksand,2029TB105,Insjön
+20,Dalarna,2029,Leksand,2029TB107,Siljansnäs
+20,Dalarna,2029,Leksand,2029TB108,Tällberg
+20,Dalarna,2029,Leksand,2029TB109,Västanvik
+20,Dalarna,2029,Leksand,2029TC106,Leksand
+20,Dalarna,2031,Rättvik,2031TB101,"Nittsjö, Sätra och Backa"
+20,Dalarna,2031,Rättvik,2031TB102,Boda
+20,Dalarna,2031,Rättvik,2031TB103,Furudal
+20,Dalarna,2031,Rättvik,2031TB104,Gulleråsen
+20,Dalarna,2031,Rättvik,2031TB105,Nedre Gärdsjö
+20,Dalarna,2031,Rättvik,2031TB108,Vikarbyn
+20,Dalarna,2031,Rättvik,2031TC106,Rättvik
+20,Dalarna,2034,Orsa,2034TB102,Skattungbyn
+20,Dalarna,2034,Orsa,2034TC101,Orsa
+20,Dalarna,2039,Älvdalen,2039TB101,Brunnsberg
+20,Dalarna,2039,Älvdalen,2039TB102,Evertsberg
+20,Dalarna,2039,Älvdalen,2039TB103,Idre
+20,Dalarna,2039,Älvdalen,2039TB105,Rot
+20,Dalarna,2039,Älvdalen,2039TB106,Särna
+20,Dalarna,2039,Älvdalen,2039TB108,Västermyckeläng
+20,Dalarna,2039,Älvdalen,2039TC110,Älvdalen
+20,Dalarna,2061,Smedjebacken,2061TB101,Gubbo
+20,Dalarna,2061,Smedjebacken,2061TB102,Hagge
+20,Dalarna,2061,Smedjebacken,2061TB104,Söderbärke
+20,Dalarna,2061,Smedjebacken,2061TB105,Vad
+20,Dalarna,2061,Smedjebacken,2061TC103,Smedjebacken
+20,Dalarna,2062,Mora,2062TB102,Bonäs
+20,Dalarna,2062,Mora,2062TB104,Gesunda
+20,Dalarna,2062,Mora,2062TB106,Nusnäs
+20,Dalarna,2062,Mora,2062TB107,Selja
+20,Dalarna,2062,Mora,2062TB108,Sollerön
+20,Dalarna,2062,Mora,2062TB110,Venjan
+20,Dalarna,2062,Mora,2062TB111,Stenis och Vika
+20,Dalarna,2062,Mora,2062TB112,Vinäs
+20,Dalarna,2062,Mora,2062TB113,Våmhus
+20,Dalarna,2062,Mora,2062TC105,Mora
+20,Dalarna,2080,Falun,2080TB101,Aspeboda
+20,Dalarna,2080,Falun,2080TB102,Bengtsheden
+20,Dalarna,2080,Falun,2080TB103,Bjursås
+20,Dalarna,2080,Falun,2080TB104,Karlsbyheden och Blixbo
+20,Dalarna,2080,Falun,2080TB105,Gamla Berget och Korsgården
+20,Dalarna,2080,Falun,2080TB106,Danholn
+20,Dalarna,2080,Falun,2080TB107,Enviken
+20,Dalarna,2080,Falun,2080TB109,Grycksbo
+20,Dalarna,2080,Falun,2080TB114,Sundborn
+20,Dalarna,2080,Falun,2080TB115,Svärdsjö
+20,Dalarna,2080,Falun,2080TB116,Sågmyra
+20,Dalarna,2080,Falun,2080TB117,Toftbyn
+20,Dalarna,2080,Falun,2080TB118,Vika
+20,Dalarna,2080,Falun,2080TB119,Övertänger
+20,Dalarna,2080,Falun,2080TB175,"Österå, Uggelviken och Hökviken"
+20,Dalarna,2080,Falun,2080TC108,Falun
+20,Dalarna,2081,Borlänge,2081TB102,Halvarsgårdarna
+20,Dalarna,2081,Borlänge,2081TB104,Norr Amsberg
+20,Dalarna,2081,Borlänge,2081TB105,Ornäs
+20,Dalarna,2081,Borlänge,2081TB106,Repbäcken
+20,Dalarna,2081,Borlänge,2081TB108,Torsång
+20,Dalarna,2081,Borlänge,2081TC101,Borlänge
+20,Dalarna,2082,Säter,2082TB101,Enbacka och Mora
+20,Dalarna,2082,Säter,2082TB106,Solvarbo
+20,Dalarna,2082,Säter,2082TB107,Skedvi kyrkby
+20,Dalarna,2082,Säter,2082TB125,"Naglarby, Lisselhaga och Storhaga"
+20,Dalarna,2082,Säter,2082TC108,Säter
+20,Dalarna,2083,Hedemora,2083TB101,Husby
+20,Dalarna,2083,Hedemora,2083TB102,Garpenberg
+20,Dalarna,2083,Hedemora,2083TB104,Långshyttan
+20,Dalarna,2083,Hedemora,2083TB105,Vikmanshyttan
+20,Dalarna,2083,Hedemora,2083TB106,Västerby
+20,Dalarna,2083,Hedemora,2083TC103,Hedemora
+20,Dalarna,2084,Avesta,2084TB102,Folkärna
+20,Dalarna,2084,Avesta,2084TB103,Fors
+20,Dalarna,2084,Avesta,2084TB104,Horndal
+20,Dalarna,2084,Avesta,2084TB106,Nordanö
+20,Dalarna,2084,Avesta,2084TC101,Avesta
+20,Dalarna,2085,Ludvika,2085TB101,Blötberget
+20,Dalarna,2085,Ludvika,2085TB102,Fredriksberg
+20,Dalarna,2085,Ludvika,2085TB104,Gonäs
+20,Dalarna,2085,Ludvika,2085TB106,Grängesberg västra
+20,Dalarna,2085,Ludvika,2085TB107,Grängesberg
+20,Dalarna,2085,Ludvika,2085TB108,Håksberg
+20,Dalarna,2085,Ludvika,2085TB111,Nyhammar
+20,Dalarna,2085,Ludvika,2085TB112,Saxdalen
+20,Dalarna,2085,Ludvika,2085TB113,Sunnansjö
+20,Dalarna,2085,Ludvika,2085TB114,Sörvik
+20,Dalarna,2085,Ludvika,2085TB115,Norrbo och Västansjö
+20,Dalarna,2085,Ludvika,2085TC110,Ludvika
+21,Gävleborg,2101,Ockelbo,2101TB102,Lingbo
+21,Gävleborg,2101,Ockelbo,2101TB104,Åmot
+21,Gävleborg,2101,Ockelbo,2101TC103,Ockelbo
+21,Gävleborg,2104,Hofors,2104TB102,Robertsholm
+21,Gävleborg,2104,Hofors,2104TB103,Torsåker
+21,Gävleborg,2104,Hofors,2104TC101,Hofors
+21,Gävleborg,2121,Ovanåker,2121TB101,Alfta
+21,Gävleborg,2121,Ovanåker,2121TB105,Roteberg
+21,Gävleborg,2121,Ovanåker,2121TB106,Runemo
+21,Gävleborg,2121,Ovanåker,2121TB107,Viksjöfors
+21,Gävleborg,2121,Ovanåker,2121TC102,Edsbyn
+21,Gävleborg,2132,Nordanstig,2132TB102,Gnarp
+21,Gävleborg,2132,Nordanstig,2132TB103,Harmånger
+21,Gävleborg,2132,Nordanstig,2132TB105,Ilsbo
+21,Gävleborg,2132,Nordanstig,2132TB106,Jättendal
+21,Gävleborg,2132,Nordanstig,2132TB107,Hassela
+21,Gävleborg,2132,Nordanstig,2132TB108,Stocka
+21,Gävleborg,2132,Nordanstig,2132TB109,Strömsbruk
+21,Gävleborg,2132,Nordanstig,2132TC101,Bergsjö
+21,Gävleborg,2161,Ljusdal,2161TB101,Färila
+21,Gävleborg,2161,Ljusdal,2161TB103,Hybo
+21,Gävleborg,2161,Ljusdal,2161TB104,Järvsö
+21,Gävleborg,2161,Ljusdal,2161TB106,Lillhaga
+21,Gävleborg,2161,Ljusdal,2161TB108,Los
+21,Gävleborg,2161,Ljusdal,2161TB112,Tallåsen
+21,Gävleborg,2161,Ljusdal,2161TC107,Ljusdal
+21,Gävleborg,2180,Gävle,2180TB101,Berg
+21,Gävleborg,2180,Gävle,2180TB102,Bergby
+21,Gävleborg,2180,Gävle,2180TB103,Björke
+21,Gävleborg,2180,Gävle,2180TB105,Forsby
+21,Gävleborg,2180,Gävle,2180TB106,Forsbacka
+21,Gävleborg,2180,Gävle,2180TB107,Furuvik
+21,Gävleborg,2180,Gävle,2180TB111,Hedesunda
+21,Gävleborg,2180,Gävle,2180TB113,Lund
+21,Gävleborg,2180,Gävle,2180TB115,Norrsundet
+21,Gävleborg,2180,Gävle,2180TB116,Sälgsjön
+21,Gävleborg,2180,Gävle,2180TB118,Trödje
+21,Gävleborg,2180,Gävle,2180TB119,Valbo
+21,Gävleborg,2180,Gävle,2180TB120,Harkskär och Utvalnäs
+21,Gävleborg,2180,Gävle,2180TB121,Åbyggeby
+21,Gävleborg,2180,Gävle,2180TB122,Överhärde
+21,Gävleborg,2180,Gävle,2180TC108,Gävle
+21,Gävleborg,2181,Sandviken,2181TB103,Hammarby
+21,Gävleborg,2181,Sandviken,2181TB104,Hillsta och Se
+21,Gävleborg,2181,Sandviken,2181TB105,Jäderfors
+21,Gävleborg,2181,Sandviken,2181TB106,Järbo
+21,Gävleborg,2181,Sandviken,2181TB107,Kungsgården
+21,Gävleborg,2181,Sandviken,2181TB109,Storvik
+21,Gävleborg,2181,Sandviken,2181TB110,Västerberg
+21,Gävleborg,2181,Sandviken,2181TB111,Årsunda
+21,Gävleborg,2181,Sandviken,2181TB112,Åshammar
+21,Gävleborg,2181,Sandviken,2181TB113,Österfärnebo
+21,Gävleborg,2181,Sandviken,2181TB141,Östanå
+21,Gävleborg,2181,Sandviken,2181TC108,Sandviken
+21,Gävleborg,2182,Söderhamn,2182TB101,Bergvik
+21,Gävleborg,2182,Söderhamn,2182TB102,Ljusne
+21,Gävleborg,2182,Söderhamn,2182TB103,Marmaverken
+21,Gävleborg,2182,Söderhamn,2182TB104,Marmaskogen
+21,Gävleborg,2182,Söderhamn,2182TB105,Mohed
+21,Gävleborg,2182,Söderhamn,2182TB106,Sandarne
+21,Gävleborg,2182,Söderhamn,2182TB111,Vallvik
+21,Gävleborg,2182,Söderhamn,2182TB112,Vannsätter
+21,Gävleborg,2182,Söderhamn,2182TB129,"Klapparvik, Malenedal och Källvik"
+21,Gävleborg,2182,Söderhamn,2182TC109,Söderhamn
+21,Gävleborg,2183,Bollnäs,2183TB101,Arbrå
+21,Gävleborg,2183,Bollnäs,2183TB103,Freluga
+21,Gävleborg,2183,Bollnäs,2183TB105,Kilafors
+21,Gävleborg,2183,Bollnäs,2183TB106,Lottefors
+21,Gävleborg,2183,Bollnäs,2183TB107,Rengsjö
+21,Gävleborg,2183,Bollnäs,2183TB108,Segersta
+21,Gävleborg,2183,Bollnäs,2183TB109,Sibo
+21,Gävleborg,2183,Bollnäs,2183TB110,Vallsta
+21,Gävleborg,2183,Bollnäs,2183TC102,Bollnäs
+21,Gävleborg,2184,Hudiksvall,2184TB101,Delsbo
+21,Gävleborg,2184,Hudiksvall,2184TB102,Enånger
+21,Gävleborg,2184,Hudiksvall,2184TB104,Friggesund
+21,Gävleborg,2184,Hudiksvall,2184TB106,Edsta
+21,Gävleborg,2184,Hudiksvall,2184TB108,Iggesund
+21,Gävleborg,2184,Hudiksvall,2184TB110,Njutånger
+21,Gävleborg,2184,Hudiksvall,2184TB111,Näsviken
+21,Gävleborg,2184,Hudiksvall,2184TB112,Sörforsa
+21,Gävleborg,2184,Hudiksvall,2184TB142,"Tomta, Näsbyn och Hagen"
+21,Gävleborg,2184,Hudiksvall,2184TC105,Hudiksvall
+22,Västernorrland,2260,Ånge,2260TB101,Alby
+22,Västernorrland,2260,Ånge,2260TB103,Ljungaverk och Fränsta
+22,Västernorrland,2260,Ånge,2260TB105,Torpshammar
+22,Västernorrland,2260,Ånge,2260TC106,Ånge
+22,Västernorrland,2262,Timrå,2262TB101,Bergeforsen
+22,Västernorrland,2262,Timrå,2262TB102,Laggarberg
+22,Västernorrland,2262,Timrå,2262TB104,Stavreviken
+22,Västernorrland,2262,Timrå,2262TB105,Söråker
+22,Västernorrland,2262,Timrå,2262TC106,Timrå
+22,Västernorrland,2280,Härnösand,2280TB103,Ramvik
+22,Västernorrland,2280,Härnösand,2280TB105,Älandsbro
+22,Västernorrland,2280,Härnösand,2280TC101,Härnösand
+22,Västernorrland,2281,Sundsvall,2281TB101,Klingsta och Allsta
+22,Västernorrland,2281,Sundsvall,2281TB102,Vi
+22,Västernorrland,2281,Sundsvall,2281TB108,Hartungviken och Spikarna
+22,Västernorrland,2281,Sundsvall,2281TB109,Hovid
+22,Västernorrland,2281,Sundsvall,2281TB110,Indal
+22,Västernorrland,2281,Sundsvall,2281TB113,Kovland
+22,Västernorrland,2281,Sundsvall,2281TB114,Kvissleby
+22,Västernorrland,2281,Sundsvall,2281TB116,Liden
+22,Västernorrland,2281,Sundsvall,2281TB117,Lucksta
+22,Västernorrland,2281,Sundsvall,2281TB118,Matfors
+22,Västernorrland,2281,Sundsvall,2281TB119,Nedansjö
+22,Västernorrland,2281,Sundsvall,2281TB120,Njurundabommen
+22,Västernorrland,2281,Sundsvall,2281TB121,Selånger
+22,Västernorrland,2281,Sundsvall,2281TB122,Vikarbodarna och Skatan
+22,Västernorrland,2281,Sundsvall,2281TB124,Stockvik
+22,Västernorrland,2281,Sundsvall,2281TB125,Stöde
+22,Västernorrland,2281,Sundsvall,2281TB128,Svartvik
+22,Västernorrland,2281,Sundsvall,2281TB129,Viforsen och Tunbyn
+22,Västernorrland,2281,Sundsvall,2281TB131,Vattjom
+22,Västernorrland,2281,Sundsvall,2281TB170,"Ås, Slädaviken och Bullås"
+22,Västernorrland,2281,Sundsvall,2281TC127,Sundsvall
+22,Västernorrland,2282,Kramfors,2282TB101,Bollstabruk
+22,Västernorrland,2282,Kramfors,2282TB102,Docksta
+22,Västernorrland,2282,Kramfors,2282TB104,Herrskog
+22,Västernorrland,2282,Kramfors,2282TB105,Klockestrand
+22,Västernorrland,2282,Kramfors,2282TB108,Lugnvik
+22,Västernorrland,2282,Kramfors,2282TB109,Lunde
+22,Västernorrland,2282,Kramfors,2282TB110,Mjällom
+22,Västernorrland,2282,Kramfors,2282TB111,Nordingrå
+22,Västernorrland,2282,Kramfors,2282TB112,Nyland
+22,Västernorrland,2282,Kramfors,2282TB113,Sandslån
+22,Västernorrland,2282,Kramfors,2282TB117,Ullånger
+22,Västernorrland,2282,Kramfors,2282TC106,Kramfors
+22,Västernorrland,2283,Sollefteå,2283TB102,Junsele
+22,Västernorrland,2283,Sollefteå,2283TB103,Långsele
+22,Västernorrland,2283,Sollefteå,2283TB104,Näsåker
+22,Västernorrland,2283,Sollefteå,2283TB105,Ramsele
+22,Västernorrland,2283,Sollefteå,2283TC107,Sollefteå
+22,Västernorrland,2284,Örnsköldsvik,2284TB102,Billsta
+22,Västernorrland,2284,Örnsköldsvik,2284TB103,Bjästa
+22,Västernorrland,2284,Örnsköldsvik,2284TB104,Björna
+22,Västernorrland,2284,Örnsköldsvik,2284TB105,Bredbyn
+22,Västernorrland,2284,Örnsköldsvik,2284TB106,Gideå
+22,Västernorrland,2284,Örnsköldsvik,2284TB108,Gottne
+22,Västernorrland,2284,Örnsköldsvik,2284TB109,Husum
+22,Västernorrland,2284,Örnsköldsvik,2284TB110,Köpmanholmen
+22,Västernorrland,2284,Örnsköldsvik,2284TB111,Långviksmon
+22,Västernorrland,2284,Örnsköldsvik,2284TB112,Mellansel
+22,Västernorrland,2284,Örnsköldsvik,2284TB113,Moliden
+22,Västernorrland,2284,Örnsköldsvik,2284TB114,Sidensjö
+22,Västernorrland,2284,Örnsköldsvik,2284TB119,Åmynnet
+22,Västernorrland,2284,Örnsköldsvik,2284TC120,Örnsköldsvik
+23,Jämtland,2303,Ragunda,2303TB101,Östra Bispgården
+23,Jämtland,2303,Ragunda,2303TB102,Västra Bispgården
+23,Jämtland,2303,Ragunda,2303TB104,Stugun
+23,Jämtland,2303,Ragunda,2303TC103,Hammarstrand
+23,Jämtland,2305,Bräcke,2305TB102,Gällö
+23,Jämtland,2305,Bräcke,2305TB103,Kälarne
+23,Jämtland,2305,Bräcke,2305TB104,Pilgrimstad
+23,Jämtland,2305,Bräcke,2305TC101,Bräcke
+23,Jämtland,2309,Krokom,2309TB101,Aspås
+23,Jämtland,2309,Krokom,2309TB102,Åssjöns norra strand
+23,Jämtland,2309,Krokom,2309TB103,Dvärsätt
+23,Jämtland,2309,Krokom,2309TB104,Föllinge
+23,Jämtland,2309,Krokom,2309TB105,Hissmofors
+23,Jämtland,2309,Krokom,2309TB108,Nälden
+23,Jämtland,2309,Krokom,2309TB109,Trångsviken
+23,Jämtland,2309,Krokom,2309TB110,Vaplan
+23,Jämtland,2309,Krokom,2309TB112,Ås
+23,Jämtland,2309,Krokom,2309TB113,Änge
+23,Jämtland,2309,Krokom,2309TC107,Krokom
+23,Jämtland,2313,Strömsund,2313TB101,Backe
+23,Jämtland,2313,Strömsund,2313TB102,Gäddede
+23,Jämtland,2313,Strömsund,2313TB103,Hammerdal
+23,Jämtland,2313,Strömsund,2313TB104,Hoting
+23,Jämtland,2313,Strömsund,2313TB106,Näsviken
+23,Jämtland,2313,Strömsund,2313TB107,Rossön
+23,Jämtland,2313,Strömsund,2313TC108,Strömsund
+23,Jämtland,2321,Åre,2321TB101,Björnänge
+23,Jämtland,2321,Åre,2321TB103,Hallen
+23,Jämtland,2321,Åre,2321TB105,Mörsil
+23,Jämtland,2321,Åre,2321TB106,Undersåker
+23,Jämtland,2321,Åre,2321TB107,Åre
+23,Jämtland,2321,Åre,2321TC104,Järpen
+23,Jämtland,2326,Berg,2326TB101,Hackås
+23,Jämtland,2326,Berg,2326TB102,Hoverberg
+23,Jämtland,2326,Berg,2326TB103,Klövsjö
+23,Jämtland,2326,Berg,2326TB104,Myrviken
+23,Jämtland,2326,Berg,2326TB108,Åsarne
+23,Jämtland,2326,Berg,2326TC107,Svenstavik
+23,Jämtland,2361,Härjedalen,2361TB101,Funäsdalen
+23,Jämtland,2361,Härjedalen,2361TB102,Hede
+23,Jämtland,2361,Härjedalen,2361TB103,Lillhärdal
+23,Jämtland,2361,Härjedalen,2361TB104,Norr-Hede
+23,Jämtland,2361,Härjedalen,2361TB106,Ulvkälla
+23,Jämtland,2361,Härjedalen,2361TB107,Vemdalen
+23,Jämtland,2361,Härjedalen,2361TB108,Ytterhogdal
+23,Jämtland,2361,Härjedalen,2361TB114,Bruksvallarna/Våålleh
+23,Jämtland,2361,Härjedalen,2361TC105,Sveg
+23,Jämtland,2380,Östersund,2380TB102,"Fåker, Ålsta och Månsta*"
+23,Jämtland,2380,Östersund,2380TB103,Hara
+23,Jämtland,2380,Östersund,2380TB104,Häggenås
+23,Jämtland,2380,Östersund,2380TB105,Lunne
+23,Jämtland,2380,Östersund,2380TB106,Lit
+23,Jämtland,2380,Östersund,2380TB107,Marieby
+23,Jämtland,2380,Östersund,2380TB108,"Målsta, Genvalla och Fillsta"
+23,Jämtland,2380,Östersund,2380TB110,Orrviken
+23,Jämtland,2380,Östersund,2380TB112,Tandsbyn
+23,Jämtland,2380,Östersund,2380TB113,Ängsmon
+23,Jämtland,2380,Östersund,2380TB148,Slandrom
+23,Jämtland,2380,Östersund,2380TC114,Östersund
+24,Västerbotten,2401,Nordmaling,2401TB102,Lögdeå
+24,Västerbotten,2401,Nordmaling,2401TB104,Rundvik
+24,Västerbotten,2401,Nordmaling,2401TC103,Nordmaling
+24,Västerbotten,2403,Bjurholm,2403TC101,Bjurholm
+24,Västerbotten,2404,Vindeln,2404TB102,Hällnäs
+24,Västerbotten,2404,Vindeln,2404TB103,Tvärålund
+24,Västerbotten,2404,Vindeln,2404TC104,Vindeln
+24,Västerbotten,2409,Robertsfors,2409TB101,Bygdeå
+24,Västerbotten,2409,Robertsfors,2409TB103,Ånäset
+24,Västerbotten,2409,Robertsfors,2409TC102,Robertsfors
+24,Västerbotten,2417,Norsjö,2417TB101,Bastuträsk
+24,Västerbotten,2417,Norsjö,2417TC102,Norsjö
+24,Västerbotten,2418,Malå,2418TC102,Malå
+24,Västerbotten,2421,Storuman,2421TB102,Hemavan/Bierke
+24,Västerbotten,2421,Storuman,2421TB103,Stensele
+24,Västerbotten,2421,Storuman,2421TB105,Tärnaby
+24,Västerbotten,2421,Storuman,2421TC104,Storuman
+24,Västerbotten,2422,Sorsele,2422TC103,Sorsele
+24,Västerbotten,2425,Dorotea,2425TC101,Dorotea
+24,Västerbotten,2460,Vännäs,2460TB102,Vännäsby
+24,Västerbotten,2460,Vännäs,2460TC101,Vännäs
+24,Västerbotten,2462,Vilhelmina,2462TC103,Vilhelmina
+24,Västerbotten,2463,Åsele,2463TC102,Åsele
+24,Västerbotten,2480,Umeå,2480TB101,Botsmark
+24,Västerbotten,2480,Umeå,2480TB102,Brännäset och Boviken
+24,Västerbotten,2480,Umeå,2480TB103,Brännland
+24,Västerbotten,2480,Umeå,2480TB104,Bullmark
+24,Västerbotten,2480,Umeå,2480TB105,Flurkmark
+24,Västerbotten,2480,Umeå,2480TB106,Hissjön
+24,Västerbotten,2480,Umeå,2480TB107,Holmsund
+24,Västerbotten,2480,Umeå,2480TB108,Hörnefors
+24,Västerbotten,2480,Umeå,2480TB109,Innertavle
+24,Västerbotten,2480,Umeå,2480TB110,Norrmjöle
+24,Västerbotten,2480,Umeå,2480TB111,Obbola
+24,Västerbotten,2480,Umeå,2480TB112,Röbäck
+24,Västerbotten,2480,Umeå,2480TB113,Stöcke
+24,Västerbotten,2480,Umeå,2480TB114,Stöcksjö
+24,Västerbotten,2480,Umeå,2480TB115,Sävar
+24,Västerbotten,2480,Umeå,2480TB116,Sörfors
+24,Västerbotten,2480,Umeå,2480TB117,Sörmjöle
+24,Västerbotten,2480,Umeå,2480TB118,Tavelsjö
+24,Västerbotten,2480,Umeå,2480TB120,Täfteå
+24,Västerbotten,2480,Umeå,2480TB121,Ersmark
+24,Västerbotten,2480,Umeå,2480TB124,Yttersjö
+24,Västerbotten,2480,Umeå,2480TB125,Överboda
+24,Västerbotten,2480,Umeå,2480TB161,Kassjö
+24,Västerbotten,2480,Umeå,2480TC122,Umeå
+24,Västerbotten,2481,Lycksele,2481TB101,Hedlunda
+24,Västerbotten,2481,Lycksele,2481TB104,Rusksele
+24,Västerbotten,2481,Lycksele,2481TC103,Lycksele
+24,Västerbotten,2482,Skellefteå,2482TB102,Boliden
+24,Västerbotten,2482,Skellefteå,2482TB103,Bureå
+24,Västerbotten,2482,Skellefteå,2482TB104,Burträsk
+24,Västerbotten,2482,Skellefteå,2482TB105,Bygdsiljum
+24,Västerbotten,2482,Skellefteå,2482TB106,Byske
+24,Västerbotten,2482,Skellefteå,2482TB107,Ersmark
+24,Västerbotten,2482,Skellefteå,2482TB109,Jörn
+24,Västerbotten,2482,Skellefteå,2482TB110,Klutmark
+24,Västerbotten,2482,Skellefteå,2482TB111,Kusmark
+24,Västerbotten,2482,Skellefteå,2482TB112,Kåge
+24,Västerbotten,2482,Skellefteå,2482TB113,Lövånger
+24,Västerbotten,2482,Skellefteå,2482TB114,Medle
+24,Västerbotten,2482,Skellefteå,2482TB115,Myckle
+24,Västerbotten,2482,Skellefteå,2482TB116,Ostvik
+24,Västerbotten,2482,Skellefteå,2482TB117,Skelleftehamn
+24,Västerbotten,2482,Skellefteå,2482TB118,Ursviken
+24,Västerbotten,2482,Skellefteå,2482TB120,Drängsmark
+24,Västerbotten,2482,Skellefteå,2482TB121,Södra Bergsbyn och Stackgrönnan
+24,Västerbotten,2482,Skellefteå,2482TB122,Örviken
+24,Västerbotten,2482,Skellefteå,2482TB141,Frostkåge
+24,Västerbotten,2482,Skellefteå,2482TC119,Skellefteå
+25,Norrbotten,2505,Arvidsjaur,2505TB102,Glommersträsk
+25,Norrbotten,2505,Arvidsjaur,2505TC101,Arvidsjaur
+25,Norrbotten,2506,Arjeplog,2506TC101,Arjeplog
+25,Norrbotten,2510,Jokkmokk,2510TB103,Porjus
+25,Norrbotten,2510,Jokkmokk,2510TB104,Vuollerim
+25,Norrbotten,2510,Jokkmokk,2510TC101,Jokkmokk
+25,Norrbotten,2513,Överkalix,2513TB102,Svartbyn
+25,Norrbotten,2513,Överkalix,2513TB103,Tallvik
+25,Norrbotten,2513,Överkalix,2513TC105,Överkalix
+25,Norrbotten,2514,Kalix,2514TB101,Bredviken
+25,Norrbotten,2514,Kalix,2514TB102,Båtskärsnäs
+25,Norrbotten,2514,Kalix,2514TB103,Gammelgården
+25,Norrbotten,2514,Kalix,2514TB107,Påläng
+25,Norrbotten,2514,Kalix,2514TB108,Risögrund
+25,Norrbotten,2514,Kalix,2514TB110,Sangis
+25,Norrbotten,2514,Kalix,2514TB111,Töre
+25,Norrbotten,2514,Kalix,2514TB112,Nyborg
+25,Norrbotten,2514,Kalix,2514TC104,Kalix
+25,Norrbotten,2518,Övertorneå,2518TB101,Hedenäset
+25,Norrbotten,2518,Övertorneå,2518TB102,Juoksengi
+25,Norrbotten,2518,Övertorneå,2518TB104,Svanstein
+25,Norrbotten,2518,Övertorneå,2518TC105,Övertorneå
+25,Norrbotten,2521,Pajala,2521TB101,Junosuando
+25,Norrbotten,2521,Pajala,2521TB102,Kangos
+25,Norrbotten,2521,Pajala,2521TB103,Korpilombolo
+25,Norrbotten,2521,Pajala,2521TC104,Pajala
+25,Norrbotten,2523,Gällivare,2523TB102,Hakkas
+25,Norrbotten,2523,Gällivare,2523TB103,Koskullskulle
+25,Norrbotten,2523,Gällivare,2523TB104,Malmberget östra
+25,Norrbotten,2523,Gällivare,2523TB105,Malmberget västra
+25,Norrbotten,2523,Gällivare,2523TB111,Tjautjas/Cavccas
+25,Norrbotten,2523,Gällivare,2523TB129,Repisvaara
+25,Norrbotten,2523,Gällivare,2523TC101,Gällivare
+25,Norrbotten,2560,Älvsbyn,2560TB101,Korsträsk
+25,Norrbotten,2560,Älvsbyn,2560TB102,Vidsel
+25,Norrbotten,2560,Älvsbyn,2560TB103,Vistträsk
+25,Norrbotten,2560,Älvsbyn,2560TC104,Älvsbyn
+25,Norrbotten,2580,Luleå,2580TB102,Antnäs
+25,Norrbotten,2580,Luleå,2580TB104,Bensbyn
+25,Norrbotten,2580,Luleå,2580TB105,Bergnäset
+25,Norrbotten,2580,Luleå,2580TB107,Brändön
+25,Norrbotten,2580,Luleå,2580TB108,Bälinge
+25,Norrbotten,2580,Luleå,2580TB109,Ersnäs
+25,Norrbotten,2580,Luleå,2580TB110,Gammelstaden
+25,Norrbotten,2580,Luleå,2580TB111,Jämtön
+25,Norrbotten,2580,Luleå,2580TB112,Kallax
+25,Norrbotten,2580,Luleå,2580TB113,Karlsvik
+25,Norrbotten,2580,Luleå,2580TB114,Klöverträsk
+25,Norrbotten,2580,Luleå,2580TB116,Måttsund
+25,Norrbotten,2580,Luleå,2580TB118,Persön
+25,Norrbotten,2580,Luleå,2580TB119,Rutvik
+25,Norrbotten,2580,Luleå,2580TB120,Råneå
+25,Norrbotten,2580,Luleå,2580TB121,Sundom
+25,Norrbotten,2580,Luleå,2580TB122,Hällbäcken och Sinksundet
+25,Norrbotten,2580,Luleå,2580TB123,Södra Sunderbyn
+25,Norrbotten,2580,Luleå,2580TB124,Ängesbyn
+25,Norrbotten,2580,Luleå,2580TB138,Södra Hertsölandet*
+25,Norrbotten,2580,Luleå,2580TC115,Luleå
+25,Norrbotten,2581,Piteå,2581TB101,Bergsviken
+25,Norrbotten,2581,Piteå,2581TB102,Blåsmark
+25,Norrbotten,2581,Piteå,2581TB103,Böle
+25,Norrbotten,2581,Piteå,2581TB105,Hemmingsmark
+25,Norrbotten,2581,Piteå,2581TB106,Hortlax
+25,Norrbotten,2581,Piteå,2581TB107,Jävre
+25,Norrbotten,2581,Piteå,2581TB109,Lillpite
+25,Norrbotten,2581,Piteå,2581TB111,Norrfjärden
+25,Norrbotten,2581,Piteå,2581TB113,Roknäs
+25,Norrbotten,2581,Piteå,2581TB114,Rosvik
+25,Norrbotten,2581,Piteå,2581TB116,Sjulsmark
+25,Norrbotten,2581,Piteå,2581TB118,Svensbyn
+25,Norrbotten,2581,Piteå,2581TB128,"Övermarken, Skatan och Maran"
+25,Norrbotten,2581,Piteå,2581TC112,Piteå
+25,Norrbotten,2582,Boden,2582TB105,Harads
+25,Norrbotten,2582,Boden,2582TB107,Sävast
+25,Norrbotten,2582,Boden,2582TB109,Trångforsen och Heden
+25,Norrbotten,2582,Boden,2582TB110,Unbyn
+25,Norrbotten,2582,Boden,2582TB111,Vittjärv
+25,Norrbotten,2582,Boden,2582TC102,Boden
+25,Norrbotten,2583,Haparanda,2583TB102,Karungi
+25,Norrbotten,2583,Haparanda,2583TB104,Nikkala
+25,Norrbotten,2583,Haparanda,2583TB105,Seskarö
+25,Norrbotten,2583,Haparanda,2583TC101,Haparanda
+25,Norrbotten,2584,Kiruna,2584TB101,Jukkasjärvi
+25,Norrbotten,2584,Kiruna,2584TB102,Karesuando
+25,Norrbotten,2584,Kiruna,2584TB104,Kuttainen
+25,Norrbotten,2584,Kiruna,2584TB105,Svappavaara
+25,Norrbotten,2584,Kiruna,2584TB107,Vittangi
+25,Norrbotten,2584,Kiruna,2584TB113,Laxforsen/Lintanen*
+25,Norrbotten,2584,Kiruna,2584TC103,Kiruna
